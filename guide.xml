@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SPORT TV 1 HD2">
-    <display-name lang="pt">SPORT TV 1 HD2</display-name>
+  <channel id="SPORTTV 1 HD">
+    <display-name lang="pt">SPORTTV 1 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
-  <channel id="SPORT TV 2 HD2">
-    <display-name lang="pt">SPORT TV 2 HD2</display-name>
+  <channel id="SPORTTV 2 HD">
+    <display-name lang="pt">SPORT TV 2 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
-  <channel id="SPORT TV 3 HD2">
-    <display-name lang="pt">SPORT TV 3 HD2</display-name>
+  <channel id="SPORTTV 3 HD">
+    <display-name lang="pt">SPORT TV 3 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
-  <channel id="SPORT TV 4 HD">
+  <channel id="SPORTTV 4 HD">
     <display-name lang="pt">SPORT TV 4 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
-  <channel id="SPORT TV 5 HD">
+  <channel id="SPORTTV 5 HD">
     <display-name lang="pt">SPORT TV 5 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
@@ -24,4 +24,304 @@
     <display-name lang="pt">EUROSPORT 1 HD</display-name>
     <url>http://www.cabovisao.pt</url>
   </channel>
+  <channel id="SPORT TV+">
+    <display-name lang="pt">SPORT TV+</display-name>
+    <icon src="http://www.guia-tv.pt/logos/sport-tv-mais.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SPORT TV1">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <icon src="http://www.guia-tv.pt/logos/sport-tv1.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <icon src="http://www.guia-tv.pt/logos/sport-tv2.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <icon src="http://www.guia-tv.pt/logos/sport-tv3.png" />
+    <url>http://www.guia-tv.pt</url>
+  </channel>
+  <programme start="20190512010000 +0100" stop="20190512013000 +0100" channel="SPORT TV+">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512013000 +0100" stop="20190512020000 +0100" channel="SPORT TV+">
+    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512025000 +0100" channel="SPORT TV+">
+    <title lang="pt">UFC: Namajunas vs Andrade</title>
+    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
+  </programme>
+  <programme start="20190512025000 +0100" stop="20190512035500 +0100" channel="SPORT TV+">
+    <title lang="pt">One Championship - Warriors Of Light</title>
+    <desc lang="pt">0(n)</desc>
+  </programme>
+  <programme start="20190512035500 +0100" stop="20190512042500 +0100" channel="SPORT TV+">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512042500 +0100" stop="20190512050000 +0100" channel="SPORT TV+">
+    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512060000 +0100" channel="SPORT TV+">
+    <title lang="pt">MotoGP: GP Espanha (Resumo)</title>
+    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular(n)</desc>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512065000 +0100" channel="SPORT TV+">
+    <title lang="pt">Desportos Radicais: Sports Unlimited</title>
+    <desc lang="pt">Magazine de desportos radicais(n)</desc>
+  </programme>
+  <programme start="20190512065000 +0100" stop="20190512071500 +0100" channel="SPORT TV+">
+    <title lang="pt">Automobilismo: Goodwood - Pikes Peak, EUA</title>
+    <desc lang="pt">0(n)</desc>
+  </programme>
+  <programme start="20190512071500 +0100" stop="20190512082000 +0100" channel="SPORT TV+">
+    <title lang="pt">Automobilismo: Goodwood - Dubai 24H</title>
+    <desc lang="pt">0(n)</desc>
+  </programme>
+  <programme start="20190512082000 +0100" stop="20190512085000 +0100" channel="SPORT TV+">
+    <title lang="pt">Cultura Tática - António Pedro Vasconcelos</title>
+    <desc lang="pt">António Simões convida personalidades relevantes da cultura e da sociedade portuguesas para uma conversa sobre desporto. Atores, escritores, políticos, etc. vão revelar uma visão diferente sobre os factos que compõem este mundo(n)</desc>
+  </programme>
+  <programme start="20190512085000 +0100" stop="20190512092500 +0100" channel="SPORT TV+">
+    <title lang="pt">Ralis: WRC - Chile - 2º Dia (Resumo)</title>
+    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
+  </programme>
+  <programme start="20190512092500 +0100" stop="20190512100000 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512103000 +0100" channel="SPORT TV+">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512103000 +0100" stop="20190512110000 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512113000 +0100" channel="SPORT TV+">
+    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512113000 +0100" stop="20190512115500 +0100" channel="SPORT TV+">
+    <title lang="pt">Ralis: WRC - Chile - 2º Dia (Resumo)</title>
+    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
+  </programme>
+  <programme start="20190512115500 +0100" stop="20190512123000 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias</title>
+    <desc lang="pt">Toda a atualidade desportiva(n)</desc>
+  </programme>
+  <programme start="20190512123000 +0100" stop="20190512130000 +0100" channel="SPORT TV+">
+    <title lang="pt">Bar Sport TV</title>
+    <desc lang="pt">Com a apresentação do Carlos Manuel, este programa conta com 3 convidados num bar, onde estão à conversa a contar histórias curiosas do futebol do passado(n)</desc>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512132500 +0100" channel="SPORT TV+">
+    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
+    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
+  </programme>
+  <programme start="20190512132500 +0100" stop="20190512135500 +0100" channel="SPORT TV+">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512135500 +0100" stop="20190512173000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada</title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada desportiva com sinalização de golos, resultados e classificações(n)</desc>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512194000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada: Nacional x FC Porto</title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada desportiva com sinalização de golos, resultados e classificações(n)</desc>
+  </programme>
+  <programme start="20190512194000 +0100" stop="20190512230000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada: Rio Ave x Benfica</title>
+    <desc lang="pt">Acompanhamento exaustivo da jornada desportiva com sinalização de golos, resultados e classificações(n)</desc>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190512235500 +0100" channel="SPORT TV+">
+    <title lang="pt">Só Golos</title>
+    <desc lang="pt">Reveja todos os golos marcados até ao momento nas várias ligas europeias(n)</desc>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512020000 +0100" channel="SPORT TV1">
+    <title lang="pt">One Championship - Warriors Of Light</title>
+    <desc lang="pt">0(n)</desc>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512030000 +0100" channel="SPORT TV1">
+    <title lang="pt">UFC: Namajunas vs Andrade</title>
+    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
+  </programme>
+  <programme start="20190512030000 +0100" stop="20190512060000 +0100" channel="SPORT TV1">
+    <title lang="pt">UFC: Namajunas vs Andrade (Direto)</title>
+    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512065000 +0100" channel="SPORT TV1">
+    <title lang="pt">Motociclismo: World SBK Itália - Corrida 1</title>
+    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
+  </programme>
+  <programme start="20190512065000 +0100" stop="20190512085000 +0100" channel="SPORT TV1">
+    <title lang="pt">Portimonense x Marítimo - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512085000 +0100" stop="20190512111500 +0100" channel="SPORT TV1">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512111500 +0100" stop="20190512132000 +0100" channel="SPORT TV1">
+    <title lang="pt">Famalicão x Oliveirense - Segunda Liga (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Segunda Liga(n)</desc>
+  </programme>
+  <programme start="20190512132000 +0100" stop="20190512134500 +0100" channel="SPORT TV1">
+    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
+    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
+  </programme>
+  <programme start="20190512134500 +0100" stop="20190512141500 +0100" channel="SPORT TV1">
+    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512141500 +0100" stop="20190512150000 +0100" channel="SPORT TV1">
+    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512171500 +0100" channel="SPORT TV1">
+    <title lang="pt">V. Guimarães x Belenenses - Primeira Liga (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512171500 +0100" stop="20190512190000 +0100" channel="SPORT TV1">
+    <title lang="pt">SPAL x Nápoles - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512190000 +0100" stop="20190512200000 +0100" channel="SPORT TV1">
+    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Antevisão)</title>
+    <desc lang="pt">Antevisão do jogo(n)</desc>
+  </programme>
+  <programme start="20190512200000 +0100" stop="20190512223000 +0100" channel="SPORT TV1">
+    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512223000 +0100" stop="20190512230000 +0100" channel="SPORT TV1">
+    <title lang="pt">Nacional x FC Porto - Primeira Liga</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT TV1">
+    <title lang="pt">Surf: Dawn Patrol Bali Protected</title>
+    <desc lang="pt">Acompanhe esta prova da ASP World Tour, integrada no Circuito WCT(n)</desc>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512013000 +0100" channel="SPORT TV2">
+    <title lang="pt">NBA Action</title>
+    <desc lang="pt">Magazine que inclui o resumo de alguns dos jogos da semana, bem como algumas entrevistas à alguns dos principais intervenientes da modalidade(n)</desc>
+  </programme>
+  <programme start="20190512013000 +0100" stop="20190512040000 +0100" channel="SPORT TV2">
+    <title lang="pt">NBA: Houston Rockets x Golden State Warriors - Playoffs - Jogo 6</title>
+    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
+  </programme>
+  <programme start="20190512040000 +0100" stop="20190512060000 +0100" channel="SPORT TV2">
+    <title lang="pt">Cagliari x Lázio - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512075500 +0100" channel="SPORT TV2">
+    <title lang="pt">Los Angeles Galaxy x New York City - MLS</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Major League Soccer(n)</desc>
+  </programme>
+  <programme start="20190512075500 +0100" stop="20190512100000 +0100" channel="SPORT TV2">
+    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512120000 +0100" channel="SPORT TV2">
+    <title lang="pt">Sydney FC x Melbourne Victory - Liga Australiana (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Liga Australiana(n)</desc>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512123500 +0100" channel="SPORT TV2">
+    <title lang="pt">Premier League World</title>
+    <desc lang="pt">Magazine. A excelência do futebol inglês a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190512123500 +0100" stop="20190512142500 +0100" channel="SPORT TV2">
+    <title lang="pt">Shanghai SIPG x Shandong Luneng - Superliga Chinesa (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Superliga Chinesa(n)</desc>
+  </programme>
+  <programme start="20190512142500 +0100" stop="20190512150000 +0100" channel="SPORT TV2">
+    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
+    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512170000 +0100" channel="SPORT TV2">
+    <title lang="pt">Liverpool x Wolverhampton - Premier League (Direto)</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190512170000 +0100" stop="20190512173000 +0100" channel="SPORT TV2">
+    <title lang="pt">Nacional x FC Porto - Primeira Liga (Antevisão)</title>
+    <desc lang="pt">Nacional x FC Porto - Primeira Liga (Antevisão)(n)</desc>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512200000 +0100" channel="SPORT TV2">
+    <title lang="pt">Nacional x FC Porto - Primeira Liga (Direto)</title>
+    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
+  </programme>
+  <programme start="20190512200000 +0100" stop="20190512203000 +0100" channel="SPORT TV2">
+    <title lang="pt">Brighton x Man. City - Premier League</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190512203000 +0100" stop="20190512230000 +0100" channel="SPORT TV2">
+    <title lang="pt">NBA - Playoffs</title>
+    <desc lang="pt">NBA - Playoffs(n)</desc>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT TV2">
+    <title lang="pt">Premier League: Jogo do Campeão</title>
+    <desc lang="pt">Resumos do jogo do Campeão da Premier League(n)</desc>
+  </programme>
+  <programme start="20190512003000 +0100" stop="20190512010000 +0100" channel="SPORT TV3">
+    <title lang="pt">Desportos Radicais: World of Free Sports</title>
+    <desc lang="pt">Magazine de desportos radicais(n)</desc>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512050000 +0100" channel="SPORT TV3">
+    <title lang="pt">NHL: San Jose x St. Louis - Final Conf. Jogo 1 (Direto)</title>
+    <desc lang="pt">Transmissão do jogo de Hóquei no Gelo, a contar para a NHL (National Hockey League)(n)</desc>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512070000 +0100" channel="SPORT TV3">
+    <title lang="pt">Fora d´horas</title>
+    <desc lang="pt">Fora d´horas(n)</desc>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512080000 +0100" channel="SPORT TV3">
+    <title lang="pt">Fora d´horas</title>
+    <desc lang="pt">Fora d´horas(n)</desc>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512083000 +0100" channel="SPORT TV3">
+    <title lang="pt">Ralis: WRC - Chile - 2º Dia (Resumo)</title>
+    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
+  </programme>
+  <programme start="20190512083000 +0100" stop="20190512090000 +0100" channel="SPORT TV3">
+    <title lang="pt">Touring Car Open: Magazine</title>
+    <desc lang="pt">Magazine do Touring Car Open(n)</desc>
+  </programme>
+  <programme start="20190512090000 +0100" stop="20190512110000 +0100" channel="SPORT TV3">
+    <title lang="pt">Automobilismo: MLMC - Monza</title>
+    <desc lang="pt">Transmissão da prova MLMC, no circuito de Monza(n)</desc>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512130000 +0100" channel="SPORT TV3">
+    <title lang="pt">Tenis: ATP Challenger Tour - Braga - Final (Direto)</title>
+    <desc lang="pt">Acompanhe o Torneio de Braga, uma prova a contar para o ATP Challenger Tour(n)</desc>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="SPORT TV3">
+    <title lang="pt">Ralis: WRC - Chile SE 13 - Bio Bio 1 (Direto)</title>
+    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
+  </programme>
+  <programme start="20190512140000 +0100" stop="20190512150000 +0100" channel="SPORT TV3">
+    <title lang="pt">Motociclismo: World SBK Itália - Corrida 2</title>
+    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512173500 +0100" channel="SPORT TV3">
+    <title lang="pt">Brighton x Man. City - Premier League (Direto)</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190512173500 +0100" stop="20190512193000 +0100" channel="SPORT TV3">
+    <title lang="pt">Tottenham x Everton - Premier League</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
+  <programme start="20190512193000 +0100" stop="20190512213000 +0100" channel="SPORT TV3">
+    <title lang="pt">Roma x Juventus - Liga Italiana (Direto)</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
+  </programme>
+  <programme start="20190512213000 +0100" stop="20190512232000 +0100" channel="SPORT TV3">
+    <title lang="pt">Man. United x Cardiff - Premier League</title>
+    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
+  </programme>
 </tv>
