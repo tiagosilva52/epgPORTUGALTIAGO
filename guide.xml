@@ -1,933 +1,539 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SPORT.TV1">
-    <display-name lang="pt">SPORT.TV1</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="RTP1">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV2">
-    <display-name lang="pt">SPORT.TV2</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="RTP2">
+    <display-name lang="pt">RTP2</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV3">
-    <display-name lang="pt">SPORT.TV3</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV4">
-    <display-name lang="pt">SPORT.TV4</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV5">
-    <display-name lang="pt">SPORT.TV5</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="SIC Notícias">
+    <display-name lang="pt">SIC Notícias</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV1 HD">
-    <display-name lang="pt">SPORT.TV1 HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv1-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="RTP Informação">
+    <display-name lang="pt">RTP Informação</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV2 HD">
-    <display-name lang="pt">SPORT.TV2 HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv2-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV3 HD">
-    <display-name lang="pt">SPORT.TV3 HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv3-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">SIC Mulher</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV4 HD">
-    <display-name lang="pt">SPORT.TV4 HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv4-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="SIC Radical">
+    <display-name lang="pt">SIC Radical</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="SPORT.TV5 HD">
-    <display-name lang="pt">SPORT.TV5 HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv5-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="RTP1 HD">
+    <display-name lang="pt">RTP1 HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="pt">RTP Memória</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ETV HD">
+    <display-name lang="pt">ETV HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">SPORT TV 3</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">SPORT TV 4</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD">
+    <display-name lang="pt">SPORT TV 1 HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV LIGA INGLESA">
+    <display-name lang="pt">SPORT TV LIGA INGLESA</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
   <channel id="BTV">
     <display-name lang="pt">BTV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/btv.png" />
-    <url>http://www.meo.pt</url>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <channel id="BTV HD">
-    <display-name lang="pt">BTV HD</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/btv-hd.png" />
-    <url>http://www.meo.pt</url>
+  <channel id="Eurosport HD">
+    <display-name lang="pt">Eurosport HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
   </channel>
-  <programme start="20190512030000 +0100" stop="20190512060000 +0100" channel="SPORT.TV1">
-    <title lang="pt">UFC: Namajunas vs Andrade (Direto)</title>
-    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463632/M" />
-  </programme>
-  <programme start="20190512060000 +0100" stop="20190512065000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 1</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484342/M" />
-  </programme>
-  <programme start="20190512065000 +0100" stop="20190512085000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Portimonense x Marítimo - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484344/M" />
-  </programme>
-  <programme start="20190512085000 +0100" stop="20190512111500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484346/M" />
-  </programme>
-  <programme start="20190512111500 +0100" stop="20190512132000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Famalicão x Oliveirense - Segunda Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Segunda Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483659/M" />
-  </programme>
-  <programme start="20190512132000 +0100" stop="20190512134500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
-    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484348/M" />
-  </programme>
-  <programme start="20190512134500 +0100" stop="20190512141500 +0100" channel="SPORT.TV1">
-    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484350/M" />
-  </programme>
-  <programme start="20190512141500 +0100" stop="20190512150000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484352/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512171500 +0100" channel="SPORT.TV1">
-    <title lang="pt">V. Guimarães x Belenenses - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483665/M" />
-  </programme>
-  <programme start="20190512171500 +0100" stop="20190512190000 +0100" channel="SPORT.TV1">
-    <title lang="pt">SPAL x Nápoles - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483667/M" />
-  </programme>
-  <programme start="20190512190000 +0100" stop="20190512200000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Antevisão)</title>
-    <desc lang="pt">Antevisão do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463648/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512223000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483669/M" />
-  </programme>
-  <programme start="20190512223000 +0100" stop="20190512230000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463652/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Surf: Dawn Patrol Bali Protected (Direto)</title>
-    <desc lang="pt">Acompanhe esta prova da ASP World Tour, integrada no Circuito WCT(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498819/M" />
-  </programme>
-  <programme start="20190512233000 +0100" stop="20190513012000 +0100" channel="SPORT.TV1">
-    <title lang="pt">Roma x Juventus - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12495332/M" />
-  </programme>
-  <programme start="20190512013000 +0100" stop="20190512040000 +0100" channel="SPORT.TV2">
-    <title lang="pt">NBA: Houston Rockets x Golden State Warriors - Playoffs - Jogo 6</title>
-    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498541/M" />
-  </programme>
-  <programme start="20190512040000 +0100" stop="20190512060000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Cagliari x Lázio - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484539/M" />
-  </programme>
-  <programme start="20190512060000 +0100" stop="20190512075500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Los Angeles Galaxy x New York City - MLS</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Major League Soccer(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484541/M" />
-  </programme>
-  <programme start="20190512075500 +0100" stop="20190512100000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484543/M" />
-  </programme>
-  <programme start="20190512100000 +0100" stop="20190512120000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Sydney FC x Melbourne Victory - Liga Australiana (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Liga Australiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484545/M" />
-  </programme>
-  <programme start="20190512120000 +0100" stop="20190512123500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Premier League World</title>
-    <desc lang="pt">Magazine. A excelência do futebol inglês a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484547/M" />
-  </programme>
-  <programme start="20190512123500 +0100" stop="20190512142500 +0100" channel="SPORT.TV2">
-    <title lang="pt">Shanghai SIPG x Shandong Luneng - Superliga Chinesa (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Superliga Chinesa(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484549/M" />
-  </programme>
-  <programme start="20190512142500 +0100" stop="20190512150000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
-    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484551/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512170000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Liverpool x Wolverhampton - Premier League (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12461461/M" />
-  </programme>
-  <programme start="20190512170000 +0100" stop="20190512173000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga (Antevisão)</title>
-    <desc lang="pt">Antevisão do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484553/M" />
-  </programme>
-  <programme start="20190512173000 +0100" stop="20190512200000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484555/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512203000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Brighton x Man. City - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493955/M" />
-  </programme>
-  <programme start="20190512203000 +0100" stop="20190512230000 +0100" channel="SPORT.TV2">
-    <title lang="pt">NBA: Denver Nuggets x Portland Blazers - Jogo 7 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498833/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Premier League: Jogo Do Campeão</title>
-    <desc lang="pt">Assista ao jogo do Campeão da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493951/M" />
-  </programme>
-  <programme start="20190512233000 +0100" stop="20190513000000 +0100" channel="SPORT.TV2">
-    <title lang="pt">Premier League: Jogo 2º Classificado</title>
-    <desc lang="pt">Acompanhe o jogo do 2º classificado da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498831/M" />
-  </programme>
-  <programme start="20190512010000 +0100" stop="20190512050000 +0100" channel="SPORT.TV3">
-    <title lang="pt">NHL: San Jose x St. Louis - Final Conf. Jogo 1 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei no Gelo, a contar para a NHL (National Hockey League)(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496306/M" />
-  </programme>
-  <programme start="20190512050000 +0100" stop="20190512070000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496302/M" />
-  </programme>
-  <programme start="20190512070000 +0100" stop="20190512080000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490134/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512083000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ralis: WRC - Chile - 2º Dia (Resumo)</title>
-    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464315/M" />
-  </programme>
-  <programme start="20190512083000 +0100" stop="20190512090000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Touring Car Open: Magazine</title>
-    <desc lang="pt">Magazine do Touring Car Open(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464317/M" />
-  </programme>
-  <programme start="20190512090000 +0100" stop="20190512110000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Automobilismo: MLMC - Monza</title>
-    <desc lang="pt">Transmissão da prova MLMC, no circuito de Monza(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464319/M" />
-  </programme>
-  <programme start="20190512110000 +0100" stop="20190512130000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Tenis: ATP Challenger Tour - Braga - Final (Direto)</title>
-    <desc lang="pt">Acompanhe o Torneio de Braga, uma prova a contar para o ATP Challenger Tour(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496676/M" />
-  </programme>
-  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Ralis: WRC - Chile SE 13 - Bio Bio 1 (Direto)</title>
-    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490138/M" />
-  </programme>
-  <programme start="20190512140000 +0100" stop="20190512150000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 2</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490140/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512173500 +0100" channel="SPORT.TV3">
-    <title lang="pt">Brighton x Man. City - Premier League (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490142/M" />
-  </programme>
-  <programme start="20190512173500 +0100" stop="20190512193000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Tottenham x Everton - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490144/M" />
-  </programme>
-  <programme start="20190512193000 +0100" stop="20190512213000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Roma x Juventus - Liga Italiana (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464327/M" />
-  </programme>
-  <programme start="20190512213000 +0100" stop="20190512232000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Man. United x Cardiff - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496674/M" />
-  </programme>
-  <programme start="20190512232000 +0100" stop="20190513011000 +0100" channel="SPORT.TV3">
-    <title lang="pt">Leicester City x Chelsea - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496678/M" />
-  </programme>
-  <programme start="20190512010000 +0100" stop="20190512080000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Fora d' horas</title>
-    <desc lang="pt">Fora d' horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484832/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512102000 +0100" channel="SPORT.TV4">
-    <title lang="pt">NBA - Playoffs</title>
-    <desc lang="pt">NBA - Playoffs(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498531/M" />
-  </programme>
-  <programme start="20190512102000 +0100" stop="20190512103000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Golfe: Etapa Palmares</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado no World Corporate Golf Challenge(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493893/M" />
-  </programme>
-  <programme start="20190512103000 +0100" stop="20190512150000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Golfe: Betfred British Masters - 4º Dia (Direto)</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado na European Tour, o circuito profissional europeu de golfe(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12461763/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512171000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Desp. Chaves x V. Setúbal - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493891/M" />
-  </programme>
-  <programme start="20190512171000 +0100" stop="20190512173000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Golfe: Etapa Palmares</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado no World Corporate Golf Challenge(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493889/M" />
-  </programme>
-  <programme start="20190512173000 +0100" stop="20190512193000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Ténis: Djokovic x Tsitsipas - Final Madrid (Direto)</title>
-    <desc lang="pt">Acompanhe o Torneio de Madrid, a contar para o ATP World Tour 1000(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12499445/M" />
-  </programme>
-  <programme start="20190512193000 +0100" stop="20190512213000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Atlanta United x Orlando City - MLS (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Major League Soccer(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12478422/M" />
-  </programme>
-  <programme start="20190512213000 +0100" stop="20190513013000 +0100" channel="SPORT.TV4">
-    <title lang="pt">Automobilismo: ELMS - 4H Monza</title>
-    <desc lang="pt">Acompanhe a prova a contar para o European Le Mans Series(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493887/M" />
-  </programme>
-  <programme start="20190512003000 +0100" stop="20190512040000 +0100" channel="SPORT.TV5">
-    <title lang="pt">NASCAR Cup Series: Digital Ally 400 (Direto)</title>
-    <desc lang="pt">Transmissão da prova inserida no campeonato de automobilismo americano NASCAR(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463433/M" />
-  </programme>
-  <programme start="20190512040000 +0100" stop="20190512080000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463435/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512090000 +0100" channel="SPORT.TV5">
-    <title lang="pt">MotoGP: GP Espanha (Resumo)</title>
-    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463437/M" />
-  </programme>
-  <programme start="20190512090000 +0100" stop="20190512100000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Documentário: Goodwood - 77th Members’ Meeting UK</title>
-    <desc lang="pt">Documentário(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463439/M" />
-  </programme>
-  <programme start="20190512100000 +0100" stop="20190512111500 +0100" channel="SPORT.TV5">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida Superpole (Direto)</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463441/M" />
-  </programme>
-  <programme start="20190512111500 +0100" stop="20190512120000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Motociclismo: World SSP Itália - Corrida (Direto)</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463443/M" />
-  </programme>
-  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="SPORT.TV5">
-    <title lang="pt">MotoGP: GP Espanha (Resumo)</title>
-    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463437/M" />
-  </programme>
-  <programme start="20190512130000 +0100" stop="20190512133000 +0100" channel="SPORT.TV5">
-    <title lang="pt">NBA Action</title>
-    <desc lang="pt">Magazine que inclui o resumo de alguns dos jogos da semana, bem como algumas entrevistas à alguns dos principais intervenientes da modalidade(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493973/M" />
-  </programme>
-  <programme start="20190512133000 +0100" stop="20190512153000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Golos Liga Holandesa</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Liga Holandesa(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498861/M" />
-  </programme>
-  <programme start="20190512153000 +0100" stop="20190512161000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Motociclismo: World SSP300 -Itália Corrida</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498859/M" />
-  </programme>
-  <programme start="20190512161000 +0100" stop="20190512170000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 2</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498857/M" />
-  </programme>
-  <programme start="20190512170000 +0100" stop="20190512183000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Ralis: WRC - Chile - Power Stage (Direto)</title>
-    <desc lang="pt">Acompanhe o Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463451/M" />
-  </programme>
-  <programme start="20190512183000 +0100" stop="20190512200000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Judo: Grand Slam Baku - 3º Dia</title>
-    <desc lang="pt">Acompanhe as provas do Grand Slam de Judo, em Baku(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493977/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512230000 +0100" channel="SPORT.TV5">
-    <title lang="pt">NHL: Boston Bruins x Carolina - Jogo 2 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei no Gelo, a contar para a NHL (National Hockey League)(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498855/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190513000000 +0100" channel="SPORT.TV5">
-    <title lang="pt">Motocrosse: Camp. Mundo - GP Lombardia MXGP Corrida 1</title>
-    <desc lang="pt">Acompanhe as provas do Campeonato do Mundo de Motocrosse(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463453/M" />
-  </programme>
-  <programme start="20190512030000 +0100" stop="20190512060000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">UFC: Namajunas vs Andrade (Direto)</title>
-    <desc lang="pt">Transmissão do combate a contar para o UFC(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463633/M" />
-  </programme>
-  <programme start="20190512060000 +0100" stop="20190512065000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 1</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484343/M" />
-  </programme>
-  <programme start="20190512065000 +0100" stop="20190512085000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Portimonense x Marítimo - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484345/M" />
-  </programme>
-  <programme start="20190512085000 +0100" stop="20190512111500 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484347/M" />
-  </programme>
-  <programme start="20190512111500 +0100" stop="20190512132000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Famalicão x Oliveirense - Segunda Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Segunda Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483660/M" />
-  </programme>
-  <programme start="20190512132000 +0100" stop="20190512134500 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
-    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484349/M" />
-  </programme>
-  <programme start="20190512134500 +0100" stop="20190512141500 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484351/M" />
-  </programme>
-  <programme start="20190512141500 +0100" stop="20190512150000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Sporting x Tondela - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484353/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512171500 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">V. Guimarães x Belenenses - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483666/M" />
-  </programme>
-  <programme start="20190512171500 +0100" stop="20190512190000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">SPAL x Nápoles - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483668/M" />
-  </programme>
-  <programme start="20190512190000 +0100" stop="20190512200000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Antevisão)</title>
-    <desc lang="pt">Antevisão do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463649/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512223000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Rio Ave x Benfica - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12483670/M" />
-  </programme>
-  <programme start="20190512223000 +0100" stop="20190512230000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463653/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Surf: Dawn Patrol Bali Protected (Direto)</title>
-    <desc lang="pt">Acompanhe esta prova da ASP World Tour, integrada no Circuito WCT(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498820/M" />
-  </programme>
-  <programme start="20190512233000 +0100" stop="20190513012000 +0100" channel="SPORT.TV1 HD">
-    <title lang="pt">Roma x Juventus - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12495333/M" />
-  </programme>
-  <programme start="20190512013000 +0100" stop="20190512040000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">NBA: Houston Rockets x Golden State Warriors - Playoffs - Jogo 6</title>
-    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498542/M" />
-  </programme>
-  <programme start="20190512040000 +0100" stop="20190512060000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Cagliari x Lázio - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484540/M" />
-  </programme>
-  <programme start="20190512060000 +0100" stop="20190512075500 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Los Angeles Galaxy x New York City - MLS</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Major League Soccer(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484542/M" />
-  </programme>
-  <programme start="20190512075500 +0100" stop="20190512100000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Fiorentina x AC Milan - Liga Italiana</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484544/M" />
-  </programme>
-  <programme start="20190512100000 +0100" stop="20190512120000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Sydney FC x Melbourne Victory - Liga Australiana (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Liga Australiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484546/M" />
-  </programme>
-  <programme start="20190512120000 +0100" stop="20190512123500 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Premier League World</title>
-    <desc lang="pt">Magazine. A excelência do futebol inglês a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484548/M" />
-  </programme>
-  <programme start="20190512123500 +0100" stop="20190512142500 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Shanghai SIPG x Shandong Luneng - Superliga Chinesa (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Superliga Chinesa(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484550/M" />
-  </programme>
-  <programme start="20190512142500 +0100" stop="20190512150000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Premier League: Antevisão 38º Jornada</title>
-    <desc lang="pt">Antevisão da próxima jornada da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484552/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512170000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Liverpool x Wolverhampton - Premier League (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12461462/M" />
-  </programme>
-  <programme start="20190512170000 +0100" stop="20190512173000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga (Antevisão)</title>
-    <desc lang="pt">Antevisão do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484554/M" />
-  </programme>
-  <programme start="20190512173000 +0100" stop="20190512200000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Nacional x FC Porto - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484556/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512203000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Brighton x Man. City - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493956/M" />
-  </programme>
-  <programme start="20190512203000 +0100" stop="20190512230000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">NBA: Denver Nuggets x Portland Blazers - Jogo 7 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo a contar para a NBA, a principal e mais espetacular Liga de Basquetebol do Mundo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498834/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190512233000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Premier League: Jogo Do Campeão</title>
-    <desc lang="pt">Assista ao jogo do Campeão da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493952/M" />
-  </programme>
-  <programme start="20190512233000 +0100" stop="20190513000000 +0100" channel="SPORT.TV2 HD">
-    <title lang="pt">Premier League: Jogo 2º Classificado</title>
-    <desc lang="pt">Acompanhe o jogo do 2º classificado da Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498832/M" />
-  </programme>
-  <programme start="20190512010000 +0100" stop="20190512050000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">NHL: San Jose x St. Louis - Final Conf. Jogo 1 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei no Gelo, a contar para a NHL (National Hockey League)(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496307/M" />
-  </programme>
-  <programme start="20190512050000 +0100" stop="20190512070000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496303/M" />
-  </programme>
-  <programme start="20190512070000 +0100" stop="20190512080000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490135/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512083000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Ralis: WRC - Chile - 2º Dia (Resumo)</title>
-    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464316/M" />
-  </programme>
-  <programme start="20190512083000 +0100" stop="20190512090000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Touring Car Open: Magazine</title>
-    <desc lang="pt">Magazine do Touring Car Open(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464318/M" />
-  </programme>
-  <programme start="20190512090000 +0100" stop="20190512110000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Automobilismo: MLMC - Monza</title>
-    <desc lang="pt">Transmissão da prova MLMC, no circuito de Monza(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464320/M" />
-  </programme>
-  <programme start="20190512110000 +0100" stop="20190512130000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Tenis: ATP Challenger Tour - Braga - Final (Direto)</title>
-    <desc lang="pt">Acompanhe o Torneio de Braga, uma prova a contar para o ATP Challenger Tour(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496677/M" />
-  </programme>
-  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Ralis: WRC - Chile SE 13 - Bio Bio 1 (Direto)</title>
-    <desc lang="pt">Resumo do Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490139/M" />
-  </programme>
-  <programme start="20190512140000 +0100" stop="20190512150000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 2</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490141/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512173500 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Brighton x Man. City - Premier League (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490143/M" />
-  </programme>
-  <programme start="20190512173500 +0100" stop="20190512193000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Tottenham x Everton - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12490145/M" />
-  </programme>
-  <programme start="20190512193000 +0100" stop="20190512213000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Roma x Juventus - Liga Italiana (Direto)</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Liga Italiana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12464328/M" />
-  </programme>
-  <programme start="20190512213000 +0100" stop="20190512232000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Man. United x Cardiff - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496675/M" />
-  </programme>
-  <programme start="20190512232000 +0100" stop="20190513011000 +0100" channel="SPORT.TV3 HD">
-    <title lang="pt">Leicester City x Chelsea - Premier League</title>
-    <desc lang="pt">Espaço dedicado à transmissão do encontro a contar para a Premier League(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496679/M" />
-  </programme>
-  <programme start="20190512010000 +0100" stop="20190512080000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Fora d' horas</title>
-    <desc lang="pt">Fora d' horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12484833/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512102000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">NBA - Playoffs</title>
-    <desc lang="pt">NBA - Playoffs(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498532/M" />
-  </programme>
-  <programme start="20190512102000 +0100" stop="20190512103000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Golfe: Etapa Palmares</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado no World Corporate Golf Challenge(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493894/M" />
-  </programme>
-  <programme start="20190512103000 +0100" stop="20190512150000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Golfe: Betfred British Masters - 4º Dia (Direto)</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado na European Tour, o circuito profissional europeu de golfe(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12461764/M" />
-  </programme>
-  <programme start="20190512150000 +0100" stop="20190512171000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Desp. Chaves x V. Setúbal - Primeira Liga (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Primeira Liga(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493892/M" />
-  </programme>
-  <programme start="20190512171000 +0100" stop="20190512173000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Golfe: Etapa Palmares</title>
-    <desc lang="pt">Transmissão do Torneio de Golfe, integrado no World Corporate Golf Challenge(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493890/M" />
-  </programme>
-  <programme start="20190512173000 +0100" stop="20190512193000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Ténis: Djokovic x Tsitsipas - Final Madrid (Direto)</title>
-    <desc lang="pt">Acompanhe o Torneio de Madrid, a contar para o ATP World Tour 1000(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12499446/M" />
-  </programme>
-  <programme start="20190512193000 +0100" stop="20190512213000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Atlanta United x Orlando City - MLS (Direto)</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Major League Soccer(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12478423/M" />
-  </programme>
-  <programme start="20190512213000 +0100" stop="20190513013000 +0100" channel="SPORT.TV4 HD">
-    <title lang="pt">Automobilismo: ELMS - 4H Monza</title>
-    <desc lang="pt">Acompanhe a prova a contar para o European Le Mans Series(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493888/M" />
-  </programme>
-  <programme start="20190512003000 +0100" stop="20190512040000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">NASCAR Cup Series: Digital Ally 400 (Direto)</title>
-    <desc lang="pt">Transmissão da prova inserida no campeonato de automobilismo americano NASCAR(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463434/M" />
-  </programme>
-  <programme start="20190512040000 +0100" stop="20190512080000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Fora d´horas</title>
-    <desc lang="pt">Fora d´horas(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463436/M" />
-  </programme>
-  <programme start="20190512080000 +0100" stop="20190512090000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">MotoGP: GP Espanha (Resumo)</title>
-    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463438/M" />
-  </programme>
-  <programme start="20190512090000 +0100" stop="20190512100000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Documentário: Goodwood - 77th Members’ Meeting UK</title>
-    <desc lang="pt">Documentário(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463440/M" />
-  </programme>
-  <programme start="20190512100000 +0100" stop="20190512111500 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida Superpole (Direto)</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463442/M" />
-  </programme>
-  <programme start="20190512111500 +0100" stop="20190512120000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Motociclismo: World SSP Itália - Corrida (Direto)</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463444/M" />
-  </programme>
-  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">MotoGP: GP Espanha (Resumo)</title>
-    <desc lang="pt">O MotoGP é a competição máxima do motociclismo e onde estão os melhores pilotos. É a alta velocidade que são dadas todas curvas, o que faz com que cada corrida seja espetacular(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463438/M" />
-  </programme>
-  <programme start="20190512130000 +0100" stop="20190512133000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">NBA Action</title>
-    <desc lang="pt">Magazine que inclui o resumo de alguns dos jogos da semana, bem como algumas entrevistas à alguns dos principais intervenientes da modalidade(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493974/M" />
-  </programme>
-  <programme start="20190512133000 +0100" stop="20190512153000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Golos Liga Holandesa</title>
-    <desc lang="pt">Transmissão do encontro a contar para a Liga Holandesa(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498862/M" />
-  </programme>
-  <programme start="20190512153000 +0100" stop="20190512161000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Motociclismo: World SSP300 -Itália Corrida</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498860/M" />
-  </programme>
-  <programme start="20190512161000 +0100" stop="20190512170000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Motociclismo: World SBK Itália - Corrida 2</title>
-    <desc lang="pt">Acompanhe as provas do Mundial Superbike(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498858/M" />
-  </programme>
-  <programme start="20190512170000 +0100" stop="20190512183000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Ralis: WRC - Chile - Power Stage (Direto)</title>
-    <desc lang="pt">Acompanhe o Rali do Chile, pontuável para o Campeonato do Mundo de Ralis(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463452/M" />
-  </programme>
-  <programme start="20190512183000 +0100" stop="20190512200000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Judo: Grand Slam Baku - 3º Dia</title>
-    <desc lang="pt">Acompanhe as provas do Grand Slam de Judo, em Baku(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12493978/M" />
-  </programme>
-  <programme start="20190512200000 +0100" stop="20190512230000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">NHL: Boston Bruins x Carolina - Jogo 2 (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei no Gelo, a contar para a NHL (National Hockey League)(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498856/M" />
-  </programme>
-  <programme start="20190512230000 +0100" stop="20190513000000 +0100" channel="SPORT.TV5 HD">
-    <title lang="pt">Motocrosse: Camp. Mundo - GP Lombardia MXGP Corrida 1</title>
-    <desc lang="pt">Acompanhe as provas do Campeonato do Mundo de Motocrosse(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12463454/M" />
-  </programme>
-  <programme start="20190512032800 +0100" stop="20190512042400 +0100" channel="BTV">
-    <title lang="pt">Off the Record</title>
-    <desc lang="pt">Tudo aquilo que sempre quis saber sobre a Benfica TV e não teve coragem de perguntar, encontra-se condensado no “Off the Record”. Os bastidores da Benfica TV têm pela primeira vez as portas abertas ao grande público. Conheça-nos a todos melhor pela mão de Carlos Dias da Silva, em capítulos de 25 minutos por semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465396/M" />
-  </programme>
-  <programme start="20190512042400 +0100" stop="20190512053500 +0100" channel="BTV">
-    <title lang="pt">Hóquei: Benfica x Alverca - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei Feminino(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496266/M" />
-  </programme>
-  <programme start="20190512053500 +0100" stop="20190512061100 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465390/M" />
-  </programme>
-  <programme start="20190512061100 +0100" stop="20190512073500 +0100" channel="BTV">
-    <title lang="pt">Futsal: Benfica x Electrico FC - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Futsal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12487995/M" />
-  </programme>
-  <programme start="20190512073500 +0100" stop="20190512074400 +0100" channel="BTV">
-    <title lang="pt">5 Dias na TV</title>
-    <desc lang="pt">Resumo do melhor que a informação BTV deu ao longo dos 5 dias úteis de emissões. Para ver e rever exclusivamente ao fim de semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12487997/M" />
-  </programme>
-  <programme start="20190512074400 +0100" stop="20190512092700 +0100" channel="BTV">
-    <title lang="pt">Benfica x Tondela - Juniores</title>
-    <desc lang="pt">Transmissão do jogo de Juniores(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12487999/M" />
-  </programme>
-  <programme start="20190512092700 +0100" stop="20190512095900 +0100" channel="BTV">
-    <title lang="pt">Pelas Casas do Benfica</title>
-    <desc lang="pt">Informação sobre as casas do Benfica e delegações encarnadas espalhadas pelo País. Curiosidades, imagens e recordações das décadas anteriores. Testemunhos de sócios e simpatizantes(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465408/M" />
-  </programme>
-  <programme start="20190512095900 +0100" stop="20190512102600 +0100" channel="BTV">
-    <title lang="pt">Benfica 10H</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465410/M" />
-  </programme>
-  <programme start="20190512102600 +0100" stop="20190512113200 +0100" channel="BTV">
-    <title lang="pt">Benfica x Belas - Benjamins A</title>
-    <desc lang="pt">Transmissão do jogo de Benjamins A(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496268/M" />
-  </programme>
-  <programme start="20190512113200 +0100" stop="20190512123200 +0100" channel="BTV">
-    <title lang="pt">Uma Semana do Melhor</title>
-    <desc lang="pt">Um programa que recupera os melhores momentos transmitidos no canal de televisão oficial do Sport Lisboa e Benfica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465406/M" />
-  </programme>
-  <programme start="20190512123200 +0100" stop="20190512132700 +0100" channel="BTV">
-    <title lang="pt">Off the Record</title>
-    <desc lang="pt">Tudo aquilo que sempre quis saber sobre a Benfica TV e não teve coragem de perguntar, encontra-se condensado no “Off the Record”. Os bastidores da Benfica TV têm pela primeira vez as portas abertas ao grande público. Conheça-nos a todos melhor pela mão de Carlos Dias da Silva, em capítulos de 25 minutos por semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465396/M" />
-  </programme>
-  <programme start="20190512132700 +0100" stop="20190512135900 +0100" channel="BTV">
-    <title lang="pt">Corporate Club</title>
-    <desc lang="pt">Focado na relação do Sport Lisboa e Benfica com os seus parceiros, “Corporate Club” é um programa destinado a explicar quando e como surgem as boas oportunidades comerciais de investimento no clube(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496270/M" />
-  </programme>
-  <programme start="20190512135900 +0100" stop="20190512145600 +0100" channel="BTV">
-    <title lang="pt">Benfica 14 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12488007/M" />
-  </programme>
-  <programme start="20190512145600 +0100" stop="20190512163300 +0100" channel="BTV">
-    <title lang="pt">Basquetebol: Benfica x CAB Madeira - Camp. Nacional (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Basquetebol, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12488009/M" />
-  </programme>
-  <programme start="20190512163300 +0100" stop="20190512195500 +0100" channel="BTV">
-    <title lang="pt">Especial: Rio Ave x Benfica - Antevisão</title>
-    <desc lang="pt">Antevisão(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498489/M" />
-  </programme>
-  <programme start="20190512195500 +0100" stop="20190512215100 +0100" channel="BTV">
-    <title lang="pt">Rio Ave x Benfica - Relato</title>
-    <desc lang="pt">Relato do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498491/M" />
-  </programme>
-  <programme start="20190512215100 +0100" stop="20190512232900 +0100" channel="BTV">
-    <title lang="pt">Rio Ave x Benfica - Pós Jogo</title>
-    <desc lang="pt">Pós jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498493/M" />
-  </programme>
-  <programme start="20190512232900 +0100" stop="20190512235400 +0100" channel="BTV">
-    <title lang="pt">Benfica 24 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465390/M" />
-  </programme>
-  <programme start="20190512235400 +0100" stop="20190513012400 +0100" channel="BTV">
-    <title lang="pt">Basquetebol: Benfica x CAB Madeira - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Basquetebol, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496272/M" />
-  </programme>
-  <programme start="20190512032800 +0100" stop="20190512042400 +0100" channel="BTV HD">
-    <title lang="pt">Off the Record</title>
-    <desc lang="pt">Tudo aquilo que sempre quis saber sobre a Benfica TV e não teve coragem de perguntar, encontra-se condensado no “Off the Record”. Os bastidores da Benfica TV têm pela primeira vez as portas abertas ao grande público. Conheça-nos a todos melhor pela mão de Carlos Dias da Silva, em capítulos de 25 minutos por semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465397/M" />
-  </programme>
-  <programme start="20190512042400 +0100" stop="20190512053500 +0100" channel="BTV HD">
-    <title lang="pt">Hóquei: Benfica x Alverca - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Hóquei Feminino(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496267/M" />
-  </programme>
-  <programme start="20190512053500 +0100" stop="20190512061100 +0100" channel="BTV HD">
-    <title lang="pt">Benfica 24 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465391/M" />
-  </programme>
-  <programme start="20190512061100 +0100" stop="20190512073500 +0100" channel="BTV HD">
-    <title lang="pt">Futsal: Benfica x Electrico FC - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Futsal(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12487996/M" />
-  </programme>
-  <programme start="20190512073500 +0100" stop="20190512074400 +0100" channel="BTV HD">
-    <title lang="pt">5 Dias na TV</title>
-    <desc lang="pt">Resumo do melhor que a informação BTV deu ao longo dos 5 dias úteis de emissões. Para ver e rever exclusivamente ao fim de semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12487998/M" />
-  </programme>
-  <programme start="20190512074400 +0100" stop="20190512092700 +0100" channel="BTV HD">
-    <title lang="pt">Benfica x Tondela - Juniores</title>
-    <desc lang="pt">Transmissão do jogo de Juniores(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12488000/M" />
-  </programme>
-  <programme start="20190512092700 +0100" stop="20190512095900 +0100" channel="BTV HD">
-    <title lang="pt">Pelas Casas do Benfica</title>
-    <desc lang="pt">Informação sobre as casas do Benfica e delegações encarnadas espalhadas pelo País. Curiosidades, imagens e recordações das décadas anteriores. Testemunhos de sócios e simpatizantes(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465409/M" />
-  </programme>
-  <programme start="20190512095900 +0100" stop="20190512102600 +0100" channel="BTV HD">
-    <title lang="pt">Benfica 10H</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465411/M" />
-  </programme>
-  <programme start="20190512102600 +0100" stop="20190512113200 +0100" channel="BTV HD">
-    <title lang="pt">Benfica x Belas - Benjamins A</title>
-    <desc lang="pt">Transmissão do jogo de Benjamins A(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496269/M" />
-  </programme>
-  <programme start="20190512113200 +0100" stop="20190512123200 +0100" channel="BTV HD">
-    <title lang="pt">Uma Semana do Melhor</title>
-    <desc lang="pt">Um programa que recupera os melhores momentos transmitidos no canal de televisão oficial do Sport Lisboa e Benfica(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465407/M" />
-  </programme>
-  <programme start="20190512123200 +0100" stop="20190512132700 +0100" channel="BTV HD">
-    <title lang="pt">Off the Record</title>
-    <desc lang="pt">Tudo aquilo que sempre quis saber sobre a Benfica TV e não teve coragem de perguntar, encontra-se condensado no “Off the Record”. Os bastidores da Benfica TV têm pela primeira vez as portas abertas ao grande público. Conheça-nos a todos melhor pela mão de Carlos Dias da Silva, em capítulos de 25 minutos por semana(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465397/M" />
-  </programme>
-  <programme start="20190512132700 +0100" stop="20190512135900 +0100" channel="BTV HD">
-    <title lang="pt">Corporate Club</title>
-    <desc lang="pt">Focado na relação do Sport Lisboa e Benfica com os seus parceiros, “Corporate Club” é um programa destinado a explicar quando e como surgem as boas oportunidades comerciais de investimento no clube(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496271/M" />
-  </programme>
-  <programme start="20190512135900 +0100" stop="20190512145600 +0100" channel="BTV HD">
-    <title lang="pt">Benfica 14 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12488008/M" />
-  </programme>
-  <programme start="20190512145600 +0100" stop="20190512163300 +0100" channel="BTV HD">
-    <title lang="pt">Basquetebol: Benfica x CAB Madeira - Camp. Nacional (Direto)</title>
-    <desc lang="pt">Transmissão do jogo de Basquetebol, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12488010/M" />
-  </programme>
-  <programme start="20190512163300 +0100" stop="20190512195500 +0100" channel="BTV HD">
-    <title lang="pt">Especial: Rio Ave x Benfica - Antevisão</title>
-    <desc lang="pt">Antevisão(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498490/M" />
-  </programme>
-  <programme start="20190512195500 +0100" stop="20190512215100 +0100" channel="BTV HD">
-    <title lang="pt">Rio Ave x Benfica - Relato</title>
-    <desc lang="pt">Relato do jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498492/M" />
-  </programme>
-  <programme start="20190512215100 +0100" stop="20190512232900 +0100" channel="BTV HD">
-    <title lang="pt">Rio Ave x Benfica - Pós Jogo</title>
-    <desc lang="pt">Pós jogo(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12498494/M" />
-  </programme>
-  <programme start="20190512232900 +0100" stop="20190512235400 +0100" channel="BTV HD">
-    <title lang="pt">Benfica 24 Horas</title>
-    <desc lang="pt">Bloco informativo dedicado ao Benfica e aos desafios em que se encontra envolvido(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12465391/M" />
-  </programme>
-  <programme start="20190512235400 +0100" stop="20190513012400 +0100" channel="BTV HD">
-    <title lang="pt">Basquetebol: Benfica x CAB Madeira - Camp. Nacional</title>
-    <desc lang="pt">Transmissão do jogo de Basquetebol, a contar para o Campeonato Nacional(n)</desc>
-    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/12496273/M" />
-  </programme>
+  <channel id="Eurosport">
+    <display-name lang="pt">Eurosport</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Eurosport News">
+    <display-name lang="pt">Eurosport News</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ESPN Classic">
+    <display-name lang="pt">ESPN Classic</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ESPN America HD">
+    <display-name lang="pt">ESPN America HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ESPN America">
+    <display-name lang="pt">ESPN America</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV GOLFE">
+    <display-name lang="pt">SPORT TV GOLFE</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">SIC K</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Panda">
+    <display-name lang="pt">Panda</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="JimJam">
+    <display-name lang="pt">JimJam</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 1">
+    <display-name lang="pt">TVCINE 1</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">TVCINE 2</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">TVCINE 3</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">TVCINE 4</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Hollywood">
+    <display-name lang="pt">Hollywood</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MGM">
+    <display-name lang="pt">MGM</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="AXN Black">
+    <display-name lang="pt">AXN Black</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="pt">AXN White</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Sy Fy HD">
+    <display-name lang="pt">Sy Fy HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Sy Fy">
+    <display-name lang="pt">Sy Fy</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX Movies HD">
+    <display-name lang="pt">FOX Movies HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="pt">FOX Movies</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MTV Portugal">
+    <display-name lang="pt">MTV Portugal</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Fuel TV HD">
+    <display-name lang="pt">Fuel TV HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Fuel TV">
+    <display-name lang="pt">Fuel TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="pt">E! Entertainment</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="The Poker Channel">
+    <display-name lang="pt">The Poker Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TV Globo Portugal">
+    <display-name lang="pt">TV Globo Portugal</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Eurochannel">
+    <display-name lang="pt">Eurochannel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TV Record">
+    <display-name lang="pt">TV Record</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="pt">Real Madrid TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Barça TV">
+    <display-name lang="pt">Barça TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MU TV">
+    <display-name lang="pt">MU TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Chelsea TV">
+    <display-name lang="pt">Chelsea TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Inter TV">
+    <display-name lang="pt">Inter TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Fashion TV">
+    <display-name lang="pt">Fashion TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="F-Men">
+    <display-name lang="pt">F-Men</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Luxe TV HD">
+    <display-name lang="pt">Luxe TV HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOOD NETWORK">
+    <display-name lang="pt">FOOD NETWORK</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="24 Kitchen">
+    <display-name lang="pt">24 Kitchen</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Style">
+    <display-name lang="pt">Style</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Fine Living">
+    <display-name lang="pt">Fine Living</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Casa Club">
+    <display-name lang="pt">Casa Club</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="CAÇAVISION">
+    <display-name lang="pt">CAÇAVISION</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="pt">Nautical Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Motors TV">
+    <display-name lang="pt">Motors TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Odisseia">
+    <display-name lang="pt">Odisseia</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="História">
+    <display-name lang="pt">História</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="The Biography Channel">
+    <display-name lang="pt">The Biography Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="National Geographic Channel HD">
+    <display-name lang="pt">National Geographic Channel HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="National Geographic Channel">
+    <display-name lang="pt">National Geographic Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="pt">National Geographic Wild</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Travel Channel HD">
+    <display-name lang="pt">Travel Channel HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pt">Travel Channel</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MCM Top">
+    <display-name lang="pt">MCM Top</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MCM Pop">
+    <display-name lang="pt">MCM Pop</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Trace TV HD">
+    <display-name lang="pt">Trace TV HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Trace TV">
+    <display-name lang="pt">Trace TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="pt">VH1</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="iConcerts (HD)">
+    <display-name lang="pt">iConcerts (HD)</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Afro Music">
+    <display-name lang="pt">Afro Music</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="BRAVA HDTV">
+    <display-name lang="pt">BRAVA HDTV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="pt">Mezzo Live HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">MEZZO</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="C-Music TV">
+    <display-name lang="pt">C-Music TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ETV">
+    <display-name lang="pt">ETV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pt">Euronews</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pt">Sky News</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="FOX NEWS">
+    <display-name lang="pt">FOX NEWS</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Aljazeera English">
+    <display-name lang="pt">Aljazeera English</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="France 24 (I)">
+    <display-name lang="pt">France 24 (I)</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="France 24 (F)">
+    <display-name lang="pt">France 24 (F)</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVE 24H">
+    <display-name lang="pt">TVE 24H</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="CNBC Europe">
+    <display-name lang="pt">CNBC Europe</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="AR TV">
+    <display-name lang="pt">AR TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TV Galicia">
+    <display-name lang="pt">TV Galicia</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="pt">TVE Internacional</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Cubavision">
+    <display-name lang="pt">Cubavision</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="pt">BBC Entertainment</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Deutsche Welle TV">
+    <display-name lang="pt">Deutsche Welle TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="pt">RTP África</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Inter +">
+    <display-name lang="pt">Inter +</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Channel 1 Russia">
+    <display-name lang="pt">Channel 1 Russia</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pt">Russia Today</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Pro TV">
+    <display-name lang="pt">Pro TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="BNT TV">
+    <display-name lang="pt">BNT TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Phoenix CNE">
+    <display-name lang="pt">Phoenix CNE</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Meo Demo">
+    <display-name lang="pt">Meo Demo</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ABOLA TV">
+    <display-name lang="pt">ABOLA TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVI Ficção">
+    <display-name lang="pt">TVI Ficção</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
 </tv>
