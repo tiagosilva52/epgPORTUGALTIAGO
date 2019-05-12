@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP1">
+    <display-name lang="pt">RTP1</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP2">
+    <display-name lang="pt">RTP2</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SIC Notícias">
+    <display-name lang="pt">SIC Notícias</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Informação">
+    <display-name lang="pt">RTP Informação</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="TVI24">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">SIC Mulher</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SIC Radical">
+    <display-name lang="pt">SIC Radical</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP1 HD">
+    <display-name lang="pt">RTP1 HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="pt">RTP Memória</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="ETV HD">
+    <display-name lang="pt">ETV HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">SPORT TV 3</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">SPORT TV 4</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD">
+    <display-name lang="pt">SPORT TV 1 HD</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="SPORT TV LIGA INGLESA">
+    <display-name lang="pt">SPORT TV LIGA INGLESA</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+  <channel id="Benfica TV">
+    <display-name lang="pt">Benfica TV</display-name>
+    <url>http://www.tv.sapo.pt</url>
+  </channel>
+</tv>
