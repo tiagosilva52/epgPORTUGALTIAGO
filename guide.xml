@@ -1,0 +1,2418 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTÍCIAS">
+    <display-name lang="pt">SIC NOTÍCIAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV+">
+    <display-name lang="pt">SPORT TV+</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO">
+    <display-name lang="pt">GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY">
+    <display-name lang="pt">TVI REALITY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMÓRIA">
+    <display-name lang="pt">RTP MEMÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">SPORT TV 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">SPORT TV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">SPORT TV 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV+ HD">
+    <display-name lang="pt">SPORT TV+ HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1 HD">
+    <display-name lang="pt">SPORT TV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2 HD">
+    <display-name lang="pt">SPORT TV 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3 HD">
+    <display-name lang="pt">SPORT TV 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4 HD">
+    <display-name lang="pt">SPORT TV 4 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 5 HD">
+    <display-name lang="pt">SPORT TV 5 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BENFICA TV">
+    <display-name lang="pt">BENFICA TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BENFICA TV HD">
+    <display-name lang="pt">BENFICA TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTING TV">
+    <display-name lang="pt">SPORTING TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTING TV HD">
+    <display-name lang="pt">SPORTING TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL HD">
+    <display-name lang="pt">PORTO CANAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="pt">DISNEY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="pt">NICKELODEON</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL PANDA">
+    <display-name lang="pt">CANAL PANDA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">BIGGS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="pt">DISNEY JUNIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="pt">NICK JR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TIJI">
+    <display-name lang="pt">TIJI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SUPER RTL">
+    <display-name lang="pt">SUPER RTL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 1">
+    <display-name lang="pt">TVCINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">TVCINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">TVCINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">TVCINE 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVSÉRIES">
+    <display-name lang="pt">TVSÉRIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL HOLLYWOOD">
+    <display-name lang="pt">CANAL HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">E! ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">FTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN BLACK">
+    <display-name lang="pt">AXN BLACK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX LIFE">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">FOX COMEDY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXMOVIES">
+    <display-name lang="pt">FOXMOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">AXN WHITE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">CANAL Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV PORTUGAL">
+    <display-name lang="pt">MTV PORTUGAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RECORD TV">
+    <display-name lang="pt">RECORD TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ID INVESTIGATION DISCOVERY">
+    <display-name lang="pt">ID INVESTIGATION DISCOVERY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 1 HD">
+    <display-name lang="pt">TVCINE 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2 HD">
+    <display-name lang="pt">TVCINE 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3 HD">
+    <display-name lang="pt">TVCINE 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4 HD">
+    <display-name lang="pt">TVCINE 4 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVSÉRIES HD">
+    <display-name lang="pt">TVSÉRIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL HOLLYWOOD HD">
+    <display-name lang="pt">CANAL HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="E! ENTERTAINMENT HD">
+    <display-name lang="pt">E! ENTERTAINMENT HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FTV HD">
+    <display-name lang="pt">FTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY HD">
+    <display-name lang="pt">FOX COMEDY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN BLACK HD">
+    <display-name lang="pt">AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="pt">FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY HD">
+    <display-name lang="pt">SYFY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME HD">
+    <display-name lang="pt">FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX MOVIES HD">
+    <display-name lang="pt">FOX MOVIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE HD">
+    <display-name lang="pt">AXN WHITE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SUNDANCE CHANNEL HD">
+    <display-name lang="pt">SUNDANCE CHANNEL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="24KITCHEN HD">
+    <display-name lang="pt">24KITCHEN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV PORTUGAL HD">
+    <display-name lang="pt">MTV PORTUGAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FINE LIVING NETWORK HD">
+    <display-name lang="pt">FINE LIVING NETWORK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">DISCOVERY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NAT GEO WILD">
+    <display-name lang="pt">NAT GEO WILD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ODISSEIA">
+    <display-name lang="pt">ODISSEIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">TRAVEL CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HISTÓRIA">
+    <display-name lang="pt">HISTÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CRIME + INVESTIGATION">
+    <display-name lang="pt">CRIME + INVESTIGATION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BLAZE">
+    <display-name lang="pt">BLAZE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISCOVERY HD SHOWCASE">
+    <display-name lang="pt">DISCOVERY HD SHOWCASE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NATIONAL GEOGRAPHIC HD">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NAT GEO WILD HD">
+    <display-name lang="pt">NAT GEO WILD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ODISSEIA HD">
+    <display-name lang="pt">ODISSEIA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL HD">
+    <display-name lang="pt">TRAVEL CHANNEL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BLAZE HD">
+    <display-name lang="pt">BLAZE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MYZEN TV">
+    <display-name lang="pt">MYZEN TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="S+ HD">
+    <display-name lang="pt">S+ HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">EUROSPORT 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name lang="pt">EUROSPORT 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FUEL TV">
+    <display-name lang="pt">FUEL TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TOROS TV HD">
+    <display-name lang="pt">TOROS TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CAÇA E PESCA">
+    <display-name lang="pt">CAÇA E PESCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1 HD">
+    <display-name lang="pt">EUROSPORT 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FUEL TV HD">
+    <display-name lang="pt">FUEL TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MOTORVISION HD">
+    <display-name lang="pt">MOTORVISION HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="OUTDOOR CHANNEL HD">
+    <display-name lang="pt">OUTDOOR CHANNEL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FIGHT NETWORK HD">
+    <display-name lang="pt">FIGHT NETWORK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV MUSIC">
+    <display-name lang="pt">MTV MUSIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV ROCKS">
+    <display-name lang="pt">MTV ROCKS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV DANCE">
+    <display-name lang="pt">MTV DANCE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="pt">VH1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="pt">VH1 CLASSIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">MCM TOP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">MEZZO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MVM">
+    <display-name lang="pt">MVM</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC CHANNEL">
+    <display-name lang="pt">AFRO MUSIC CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="STINGRAY ICONCERTS HD">
+    <display-name lang="pt">STINGRAY ICONCERTS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEZZO LIVE HD">
+    <display-name lang="pt">MEZZO LIVE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRACE URBAN HD">
+    <display-name lang="pt">TRACE URBAN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO NOW HD">
+    <display-name lang="pt">GLOBO NOW HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RECORD NEWS">
+    <display-name lang="pt">RECORD NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL UM EUROPA">
+    <display-name lang="pt">CANAL UM EUROPA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RECORD TV HD">
+    <display-name lang="pt">RECORD TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL 180">
+    <display-name lang="pt">CANAL 180</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="KURIAKOS TV">
+    <display-name lang="pt">KURIAKOS TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANCAONOVA">
+    <display-name lang="pt">CANCAONOVA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ANGELUS TV">
+    <display-name lang="pt">ANGELUS TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MADEIRA">
+    <display-name lang="pt">RTP MADEIRA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP AÇORES">
+    <display-name lang="pt">RTP AÇORES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP ÁFRICA">
+    <display-name lang="pt">RTP ÁFRICA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TPA INTERNACIONAL">
+    <display-name lang="pt">TPA INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TCV INTERNACIONAL">
+    <display-name lang="pt">TCV INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="STV NOTÍCIAS">
+    <display-name lang="pt">STV NOTÍCIAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="REGIÕES TV">
+    <display-name lang="pt">REGIÕES TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="LOCALVISÃO TV HD">
+    <display-name lang="pt">LOCALVISÃO TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RAI NEWS 24">
+    <display-name lang="pt">RAI NEWS 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EURONEWS">
+    <display-name lang="pt">EURONEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SKY NEWS">
+    <display-name lang="pt">SKY NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BBC WORLD NEWS">
+    <display-name lang="pt">BBC WORLD NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AL JAZEERA">
+    <display-name lang="pt">AL JAZEERA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FRANCE 24 (I)">
+    <display-name lang="pt">FRANCE 24 (I)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FRANCE 24 (F)">
+    <display-name lang="pt">FRANCE 24 (F)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pt">CNBC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="pt">BLOOMBERG</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVE 24H">
+    <display-name lang="pt">TVE 24H</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PHOENIX INFONEWS">
+    <display-name lang="pt">PHOENIX INFONEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RUSSIA TODAY">
+    <display-name lang="pt">RUSSIA TODAY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NHK WORLD TV">
+    <display-name lang="pt">NHK WORLD TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="pt">CGTN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AR TV">
+    <display-name lang="pt">AR TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV GALICIA">
+    <display-name lang="pt">TV GALICIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVEI">
+    <display-name lang="pt">TVEI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CUBAVISIÓN INTERNACIONAL">
+    <display-name lang="pt">CUBAVISIÓN INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TELESUR">
+    <display-name lang="pt">TELESUR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV5 MONDE">
+    <display-name lang="pt">TV5 MONDE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ARTE">
+    <display-name lang="pt">ARTE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BVN">
+    <display-name lang="pt">BVN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="pt">RTL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="pt">DW</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTR PLANETA">
+    <display-name lang="pt">RTR PLANETA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVR INTERNACIONAL">
+    <display-name lang="pt">TVR INTERNACIONAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BNT WORLD">
+    <display-name lang="pt">BNT WORLD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="1+1">
+    <display-name lang="pt">1+1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PHOENIX CNE">
+    <display-name lang="pt">PHOENIX CNE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="KBS WORLD HD">
+    <display-name lang="pt">KBS WORLD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="pt">CCTV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="IUTV">
+    <display-name lang="pt">IUTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SET ASIA">
+    <display-name lang="pt">SET ASIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="pt">MAX</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ZEE TV">
+    <display-name lang="pt">ZEE TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DOG TV">
+    <display-name lang="pt">DOG TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY - CÂMARA 1">
+    <display-name lang="pt">TVI REALITY - CÂMARA 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY - CÂMARA 2">
+    <display-name lang="pt">TVI REALITY - CÂMARA 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY - CÂMARA 3">
+    <display-name lang="pt">TVI REALITY - CÂMARA 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY - CÂMARA 4">
+    <display-name lang="pt">TVI REALITY - CÂMARA 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI REALITY - MOSAICO">
+    <display-name lang="pt">TVI REALITY - MOSAICO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOT">
+    <display-name lang="pt">HOT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOTHD">
+    <display-name lang="pt">HOT HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PLAYBOY HD">
+    <display-name lang="pt">PLAYBOY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VENUS">
+    <display-name lang="pt">VENUS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PENTHOUSE HD1">
+    <display-name lang="pt">PENTHOUSE HD1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SEXTREME">
+    <display-name lang="pt">SEXTREME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEMONSTRAÇÃO">
+    <display-name lang="pt">DEMONSTRAÇÃO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL DE TESTE">
+    <display-name lang="pt">CANAL DE TESTE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTÍCIAS HD">
+    <display-name lang="pt">SIC NOTÍCIAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV HD">
+    <display-name lang="pt">CMTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO HD">
+    <display-name lang="pt">GLOBO HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER HD">
+    <display-name lang="pt">SIC MULHER HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS HD">
+    <display-name lang="pt">SIC CARAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL HD">
+    <display-name lang="pt">SIC RADICAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <programme start="20190512002600 +0100" stop="20190512012100 +0100" channel="RTP 1">
+    <title lang="pt">A3.30</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190512012100 +0100" stop="20190512020100 +0100" channel="RTP 1">
+    <title lang="pt">Flash</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E22</episode-num>
+  </programme>
+  <programme start="20190512020100 +0100" stop="20190512024500 +0100" channel="RTP 1">
+    <title lang="pt">Flash</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E23</episode-num>
+  </programme>
+  <programme start="20190512024500 +0100" stop="20190512033700 +0100" channel="RTP 1">
+    <title lang="pt">Hormonas Descontroladas - Homens e Mulheres na Menopausa</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512033700 +0100" stop="20190512060800 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512060800 +0100" stop="20190512063100 +0100" channel="RTP 1">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E17</episode-num>
+  </programme>
+  <programme start="20190512063100 +0100" stop="20190512064400 +0100" channel="RTP 1">
+    <title lang="pt">Conta Um Conto</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E11</episode-num>
+  </programme>
+  <programme start="20190512064400 +0100" stop="20190512065300 +0100" channel="RTP 1">
+    <title lang="pt">Ema e Gui</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E27</episode-num>
+  </programme>
+  <programme start="20190512065300 +0100" stop="20190512070900 +0100" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S21E38</episode-num>
+  </programme>
+  <programme start="20190512070900 +0100" stop="20190512072000 +0100" channel="RTP 1">
+    <title lang="pt">Jelly Jamm</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E47</episode-num>
+  </programme>
+  <programme start="20190512072000 +0100" stop="20190512073300 +0100" channel="RTP 1">
+    <title lang="pt">Lulu Cambalhota</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190512073300 +0100" stop="20190512080000 +0100" channel="RTP 1">
+    <title lang="pt">Movimento Gentil - Desafio Escolas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512103000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512103000 +0100" stop="20190512113700 +0100" channel="RTP 1">
+    <title lang="pt">Eucaristia Dominical</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512113700 +0100" stop="20190512121300 +0100" channel="RTP 1">
+    <title lang="pt">Paraíso Verde</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190512121300 +0100" stop="20190512130000 +0100" channel="RTP 1">
+    <title lang="pt">As Receitas Lá de Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E170</episode-num>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512142200 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512142200 +0100" stop="20190512151900 +0100" channel="RTP 1">
+    <title lang="pt">Faz Faísca</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190512151900 +0100" stop="20190512160200 +0100" channel="RTP 1">
+    <title lang="pt">Portugueses pelo Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S9E5</episode-num>
+  </programme>
+  <programme start="20190512160200 +0100" stop="20190512175600 +0100" channel="RTP 1">
+    <title lang="pt">Um Avô Muito à Frente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512175600 +0100" stop="20190512194800 +0100" channel="RTP 1">
+    <title lang="pt">Hóquei em Patins: Final Four Liga Europeia 2019 - Final</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512194800 +0100" stop="20190512195900 +0100" channel="RTP 1">
+    <title lang="pt">La Banda</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190512195900 +0100" stop="20190512210800 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512210800 +0100" stop="20190512231600 +0100" channel="RTP 1">
+    <title lang="pt">La Banda</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190512231600 +0100" stop="20190513021900 +0100" channel="RTP 1">
+    <title lang="pt">Fátima</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512070000 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512080200 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512080200 +0100" stop="20190512082500 +0100" channel="RTP 2">
+    <title lang="pt">As Aventuras do Urso Paddington</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20190512082500 +0100" stop="20190512083700 +0100" channel="RTP 2">
+    <title lang="pt">Ollie e Moon</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E14</episode-num>
+  </programme>
+  <programme start="20190512083700 +0100" stop="20190512084400 +0100" channel="RTP 2">
+    <title lang="pt">A Escola dos Rugidos</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E24</episode-num>
+  </programme>
+  <programme start="20190512084400 +0100" stop="20190512085500 +0100" channel="RTP 2">
+    <title lang="pt">Estela e Simão</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E25</episode-num>
+  </programme>
+  <programme start="20190512085500 +0100" stop="20190512090800 +0100" channel="RTP 2">
+    <title lang="pt">Adivinha o Quanto Eu Gosto de Ti</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E15</episode-num>
+  </programme>
+  <programme start="20190512090800 +0100" stop="20190512092000 +0100" channel="RTP 2">
+    <title lang="pt">Peg e o Gato</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20190512092000 +0100" stop="20190512093300 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20190512093300 +0100" stop="20190512094600 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190512094600 +0100" stop="20190512095700 +0100" channel="RTP 2">
+    <title lang="pt">Olivia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E15</episode-num>
+  </programme>
+  <programme start="20190512095700 +0100" stop="20190512100400 +0100" channel="RTP 2">
+    <title lang="pt">Bing</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190512100400 +0100" stop="20190512101200 +0100" channel="RTP 2">
+    <title lang="pt">Bing</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E30</episode-num>
+  </programme>
+  <programme start="20190512101200 +0100" stop="20190512103500 +0100" channel="RTP 2">
+    <title lang="pt">A Abelha Maia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E33</episode-num>
+  </programme>
+  <programme start="20190512103500 +0100" stop="20190512104700 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E17</episode-num>
+  </programme>
+  <programme start="20190512104700 +0100" stop="20190512110000 +0100" channel="RTP 2">
+    <title lang="pt">Blinky Bill</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E18</episode-num>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512111200 +0100" channel="RTP 2">
+    <title lang="pt">Origanimais</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E19</episode-num>
+  </programme>
+  <programme start="20190512111200 +0100" stop="20190512112500 +0100" channel="RTP 2">
+    <title lang="pt">Monstrolândia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E26</episode-num>
+  </programme>
+  <programme start="20190512112500 +0100" stop="20190512113600 +0100" channel="RTP 2">
+    <title lang="pt">Chovem Almôndegas</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190512113600 +0100" stop="20190512114800 +0100" channel="RTP 2">
+    <title lang="pt">CJ a DJ</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190512114800 +0100" stop="20190512121100 +0100" channel="RTP 2">
+    <title lang="pt">Lexi &amp; Lottie - Gémeas Detetives</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E13</episode-num>
+  </programme>
+  <programme start="20190512121100 +0100" stop="20190512122300 +0100" channel="RTP 2">
+    <title lang="pt">1001 Noites</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E25</episode-num>
+  </programme>
+  <programme start="20190512122300 +0100" stop="20190512124800 +0100" channel="RTP 2">
+    <title lang="pt">Sangue de Lobo</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E12</episode-num>
+  </programme>
+  <programme start="20190512124800 +0100" stop="20190512125900 +0100" channel="RTP 2">
+    <title lang="pt">CJ a DJ</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S1E27</episode-num>
+  </programme>
+  <programme start="20190512125900 +0100" stop="20190512131000 +0100" channel="RTP 2">
+    <title lang="pt">A Casa da Árvore</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E13</episode-num>
+  </programme>
+  <programme start="20190512131000 +0100" stop="20190512145800 +0100" channel="RTP 2">
+    <title lang="pt">Kiki, a Aprendiz de Feiticeira</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512145800 +0100" stop="20190512164900 +0100" channel="RTP 2">
+    <title lang="pt">Liga Portuguesa de Basquetebol - Benfica x CAB Madeira</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512164900 +0100" stop="20190512165800 +0100" channel="RTP 2">
+    <title lang="pt">Grandes Parlamentares</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190512165800 +0100" stop="20190512171600 +0100" channel="RTP 2">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190512171600 +0100" stop="20190512173500 +0100" channel="RTP 2">
+    <title lang="pt">Voz do Cidadão</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E17</episode-num>
+  </programme>
+  <programme start="20190512173500 +0100" stop="20190512180200 +0100" channel="RTP 2">
+    <title lang="pt">Caminhos</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512180200 +0100" stop="20190512182900 +0100" channel="RTP 2">
+    <title lang="pt">70x7</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512182900 +0100" stop="20190512185500 +0100" channel="RTP 2">
+    <title lang="pt">Grandes Quadros Portugueses</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190512185500 +0100" stop="20190512201200 +0100" channel="RTP 2">
+    <title lang="pt">Uma Visão Diferente</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190512201200 +0100" stop="20190512203200 +0100" channel="RTP 2">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20190512203200 +0100" stop="20190512205900 +0100" channel="RTP 2">
+    <title lang="pt">Madeira Prima</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190512205900 +0100" stop="20190512213000 +0100" channel="RTP 2">
+    <title lang="pt">Medicinas do Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190512213000 +0100" stop="20190512221500 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E131</episode-num>
+  </programme>
+  <programme start="20190512221500 +0100" stop="20190512230300 +0100" channel="RTP 2">
+    <title lang="pt">Os Durrells</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190512230300 +0100" stop="20190512233300 +0100" channel="RTP 2">
+    <title lang="pt">Atelier d</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512233300 +0100" stop="20190513003600 +0100" channel="RTP 2">
+    <title lang="pt">Joana Gama e Luís Fernandes At the Still Point of Turning the World</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512042000 +0100" channel="SIC">
+    <title lang="pt">A Ponte dos Espiões</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512042000 +0100" stop="20190512060000 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512064500 +0100" channel="SIC">
+    <title lang="pt">Maré Alta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E23</episode-num>
+  </programme>
+  <programme start="20190512064500 +0100" stop="20190512071500 +0100" channel="SIC">
+    <title lang="pt">Lego Nexo Knights</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190512071500 +0100" stop="20190512073500 +0100" channel="SIC">
+    <title lang="pt">Os Guardiões da Galáxia</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S2E24</episode-num>
+  </programme>
+  <programme start="20190512073500 +0100" stop="20190512074000 +0100" channel="SIC">
+    <title lang="pt">Magazine Literacia 3Di</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E6</episode-num>
+  </programme>
+  <programme start="20190512074000 +0100" stop="20190512082500 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S3E3</episode-num>
+  </programme>
+  <programme start="20190512082500 +0100" stop="20190512091000 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+    <category lang="pt">infantil</category>
+    <episode-num system="xmltv_ns">S3E4</episode-num>
+  </programme>
+  <programme start="20190512091000 +0100" stop="20190512121500 +0100" channel="SIC">
+    <title lang="pt">Olhó Baião!</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190512121500 +0100" stop="20190512130000 +0100" channel="SIC">
+    <title lang="pt">Vida Selvagem</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E163</episode-num>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512141000 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512141000 +0100" stop="20190512143500 +0100" channel="SIC">
+    <title lang="pt">Fama Show</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E565</episode-num>
+  </programme>
+  <programme start="20190512143500 +0100" stop="20190512150000 +0100" channel="SIC">
+    <title lang="pt">Eu Quero Arrumar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512173000 +0100" channel="SIC">
+    <title lang="pt">Basta</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512195700 +0100" channel="SIC">
+    <title lang="pt">Elementos Secretos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512195700 +0100" stop="20190512214500 +0100" channel="SIC">
+    <title lang="pt">Jornal da Noite</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512214500 +0100" stop="20190512232000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar com o Agricultor?</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512232000 +0100" stop="20190513014000 +0100" channel="SIC">
+    <title lang="pt">Levanta-te e Ri - Caldas da Rainha</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190512005000 +0100" stop="20190512025000 +0100" channel="TVI">
+    <title lang="pt">O Sétimo Filho</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512025000 +0100" stop="20190512030500 +0100" channel="TVI">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512030500 +0100" stop="20190512035900 +0100" channel="TVI">
+    <title lang="pt">Remédio Santo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512035900 +0100" stop="20190512044500 +0100" channel="TVI">
+    <title lang="pt">Saber Amar</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512044500 +0100" stop="20190512061500 +0100" channel="TVI">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512061500 +0100" stop="20190512063000 +0100" channel="TVI">
+    <title lang="pt">Os Batanetes</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190512063000 +0100" stop="20190512071600 +0100" channel="TVI">
+    <title lang="pt">Campeões e Detectives</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190512071600 +0100" stop="20190512081100 +0100" channel="TVI">
+    <title lang="pt">Detective Maravilhas</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190512081100 +0100" stop="20190512084700 +0100" channel="TVI">
+    <title lang="pt">Selfie</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512084700 +0100" stop="20190512111200 +0100" channel="TVI">
+    <title lang="pt">Inspetor Max</title>
+    <category lang="pt">series</category>
+  </programme>
+  <programme start="20190512111200 +0100" stop="20190512123500 +0100" channel="TVI">
+    <title lang="pt">Missa - Fátima</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512123500 +0100" stop="20190512130000 +0100" channel="TVI">
+    <title lang="pt">Querido, Mudei a Casa</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="TVI">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512140000 +0100" stop="20190512195700 +0100" channel="TVI">
+    <title lang="pt">Somos Portugal</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E21</episode-num>
+  </programme>
+  <programme start="20190512195700 +0100" stop="20190512215500 +0100" channel="TVI">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512215500 +0100" stop="20190512230000 +0100" channel="TVI">
+    <title lang="pt">Valor da Vida</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E196</episode-num>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190513000000 +0100" channel="TVI">
+    <title lang="pt">A Teia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E148</episode-num>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512013000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190512013000 +0100" stop="20190512020000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">60 Minutos</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S9E32</episode-num>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512021500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E18</episode-num>
+  </programme>
+  <programme start="20190512021500 +0100" stop="20190512024500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190512024500 +0100" stop="20190512031500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Verdade ou Consequência</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E16</episode-num>
+  </programme>
+  <programme start="20190512031500 +0100" stop="20190512033000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Vamos a Jogo</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190512033000 +0100" stop="20190512060000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">The Next Big Idea Magazine</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S7E9</episode-num>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512070000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Panorama BBC</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512072000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512072000 +0100" stop="20190512073000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Terra Emergente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S3E11</episode-num>
+  </programme>
+  <programme start="20190512073000 +0100" stop="20190512074500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512074500 +0100" stop="20190512080000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Espaços &amp; Casas</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512082500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512082500 +0100" stop="20190512083000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Golf Report</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S12E19</episode-num>
+  </programme>
+  <programme start="20190512083000 +0100" stop="20190512084500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512084500 +0100" stop="20190512090000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Boa Cama Boa Mesa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S10E6</episode-num>
+  </programme>
+  <programme start="20190512090000 +0100" stop="20190512092000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512092000 +0100" stop="20190512093000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Contas Poupança</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E16</episode-num>
+  </programme>
+  <programme start="20190512093000 +0100" stop="20190512094500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512094500 +0100" stop="20190512100000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Cartaz - Especial Fim de Semana</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E18</episode-num>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512104000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512104000 +0100" stop="20190512110000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Imagens de Marca</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S13E19</episode-num>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512120000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal do Meio-Dia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Primeiro Jornal</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512140000 +0100" stop="20190512144500 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal das Duas</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512144500 +0100" stop="20190512150000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Exame Informática</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512152000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512152000 +0100" stop="20190512203000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal Síntese</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512203000 +0100" stop="20190512210000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Volante</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E4</episode-num>
+  </programme>
+  <programme start="20190512210000 +0100" stop="20190512230000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Jornal de Domingo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190513010000 +0100" channel="SIC NOTÍCIAS">
+    <title lang="pt">Play-Off</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S3E19</episode-num>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512012500 +0100" channel="RTP 3">
+    <title lang="pt">Três irmãos</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190512012500 +0100" stop="20190512020000 +0100" channel="RTP 3">
+    <title lang="pt">Debates Europeias 2019</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512025000 +0100" channel="RTP 3">
+    <title lang="pt">A Grandiosa Enciclopédia do Ludopédio</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S6E14</episode-num>
+  </programme>
+  <programme start="20190512025000 +0100" stop="20190512030500 +0100" channel="RTP 3">
+    <title lang="pt">Futsal</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20190512030500 +0100" stop="20190512035000 +0100" channel="RTP 3">
+    <title lang="pt">Diário Europa</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512035000 +0100" stop="20190512040500 +0100" channel="RTP 3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190512040500 +0100" stop="20190512044000 +0100" channel="RTP 3">
+    <title lang="pt">Parlamento</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512044000 +0100" stop="20190512045000 +0100" channel="RTP 3">
+    <title lang="pt">Tech 3</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20190512045000 +0100" stop="20190512052000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Açores</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512052000 +0100" stop="20190512055000 +0100" channel="RTP 3">
+    <title lang="pt">Telejornal Madeira</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512055000 +0100" stop="20190512060500 +0100" channel="RTP 3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E7</episode-num>
+  </programme>
+  <programme start="20190512060500 +0100" stop="20190512070000 +0100" channel="RTP 3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512073000 +0100" channel="RTP 3">
+    <title lang="pt">África Global</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512073000 +0100" stop="20190512080000 +0100" channel="RTP 3">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512103000 +0100" channel="RTP 3">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512103000 +0100" stop="20190512110000 +0100" channel="RTP 3">
+    <title lang="pt">Linha da Frente</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S21E16</episode-num>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512114500 +0100" channel="RTP 3">
+    <title lang="pt">3 às 11</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512114500 +0100" stop="20190512120000 +0100" channel="RTP 3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="RTP 3">
+    <title lang="pt">Jornal das 12</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512135000 +0100" channel="RTP 3">
+    <title lang="pt">GPS</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E82</episode-num>
+  </programme>
+  <programme start="20190512135000 +0100" stop="20190512143000 +0100" channel="RTP 3">
+    <title lang="pt">Tecnet</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190512143000 +0100" stop="20190512143500 +0100" channel="RTP 3">
+    <title lang="pt">3 às 14</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512143500 +0100" stop="20190512150000 +0100" channel="RTP 3">
+    <title lang="pt">Todas as Palavras</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E19</episode-num>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512152500 +0100" channel="RTP 3">
+    <title lang="pt">3 às 15</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512152500 +0100" stop="20190512154000 +0100" channel="RTP 3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E7</episode-num>
+  </programme>
+  <programme start="20190512154000 +0100" stop="20190512160000 +0100" channel="RTP 3">
+    <title lang="pt">Terra Príncipe</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190512160000 +0100" stop="20190512163000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 16</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512163000 +0100" stop="20190512170000 +0100" channel="RTP 3">
+    <title lang="pt">Janela Indiscreta</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E19</episode-num>
+  </programme>
+  <programme start="20190512170000 +0100" stop="20190512173000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 17</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512174300 +0100" channel="RTP 3">
+    <title lang="pt">FOTOBOX</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190512174300 +0100" stop="20190512180000 +0100" channel="RTP 3">
+    <title lang="pt">De Lisboa a Helsínquia</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S1E24</episode-num>
+  </programme>
+  <programme start="20190512180000 +0100" stop="20190512184500 +0100" channel="RTP 3">
+    <title lang="pt">3 às 18</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512184500 +0100" stop="20190512190000 +0100" channel="RTP 3">
+    <title lang="pt">Europa Minha</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190512190000 +0100" stop="20190512200000 +0100" channel="RTP 3">
+    <title lang="pt">3 às 19</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512200000 +0100" stop="20190512203000 +0100" channel="RTP 3">
+    <title lang="pt">Outras Histórias</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20190512203000 +0100" stop="20190512204500 +0100" channel="RTP 3">
+    <title lang="pt">Volta ao Mundo</title>
+    <category lang="pt">documentarios</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190512204500 +0100" stop="20190512210000 +0100" channel="RTP 3">
+    <title lang="pt">A Essência</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S5E7</episode-num>
+  </programme>
+  <programme start="20190512210000 +0100" stop="20190512220400 +0100" channel="RTP 3">
+    <title lang="pt">360º</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512220400 +0100" stop="20190513000000 +0100" channel="RTP 3">
+    <title lang="pt">Trio d</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512005500 +0100" stop="20190512012300 +0100" channel="TVI 24">
+    <title lang="pt">Deus e o Diabo</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512012300 +0100" stop="20190512023000 +0100" channel="TVI 24">
+    <title lang="pt">Governo Sombra</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512023000 +0100" stop="20190512025500 +0100" channel="TVI 24">
+    <title lang="pt">Entre Tantos</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512025500 +0100" stop="20190512032200 +0100" channel="TVI 24">
+    <title lang="pt">Ana Leal - Reportagem</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512032200 +0100" stop="20190512041700 +0100" channel="TVI 24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512041700 +0100" stop="20190512043000 +0100" channel="TVI 24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512043000 +0100" stop="20190512063000 +0100" channel="TVI 24">
+    <title lang="pt">TV Shop</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512063000 +0100" stop="20190512063800 +0100" channel="TVI 24">
+    <title lang="pt">A Minha É Melhor Que a Tua</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512063800 +0100" stop="20190512065700 +0100" channel="TVI 24">
+    <title lang="pt">Cinebox</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512065700 +0100" stop="20190512072700 +0100" channel="TVI 24">
+    <title lang="pt">Todos Iguais</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512072700 +0100" stop="20190512074200 +0100" channel="TVI 24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512074200 +0100" stop="20190512075800 +0100" channel="TVI 24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512075800 +0100" stop="20190512090000 +0100" channel="TVI 24">
+    <title lang="pt">SOS 24</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512090000 +0100" stop="20190512102000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512102000 +0100" stop="20190512103500 +0100" channel="TVI 24">
+    <title lang="pt">GTI</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512103500 +0100" stop="20190512110000 +0100" channel="TVI 24">
+    <title lang="pt">FFF - Fashion Film Factory</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512120000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512140000 +0100" channel="TVI 24">
+    <title lang="pt">Jornal da Uma</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512140000 +0100" stop="20190512152500 +0100" channel="TVI 24">
+    <title lang="pt">Governo Sombra</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512152500 +0100" stop="20190512173000 +0100" channel="TVI 24">
+    <title lang="pt">Especial Informação - Antevisão</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512195700 +0100" channel="TVI 24">
+    <title lang="pt">Especial Informação - As Grandes Decisões</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512195700 +0100" stop="20190512214800 +0100" channel="TVI 24">
+    <title lang="pt">Jornal das 8</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512214800 +0100" stop="20190512220900 +0100" channel="TVI 24">
+    <title lang="pt">Notícias</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512220900 +0100" stop="20190513000000 +0100" channel="TVI 24">
+    <title lang="pt">Livre e Direto</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512005700 +0100" stop="20190512023000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512023000 +0100" stop="20190512040000 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Dia e Noite</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512040000 +0100" stop="20190512053500 +0100" channel="CMTV">
+    <title lang="pt">Cinema Erótico: Odor do Sangue</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512053500 +0100" stop="20190512054500 +0100" channel="CMTV">
+    <title lang="pt">Aquela Máquina</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S8E5</episode-num>
+  </programme>
+  <programme start="20190512054500 +0100" stop="20190512060000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E11</episode-num>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512065700 +0100" channel="CMTV">
+    <title lang="pt">Rua Segura Best Of</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E19</episode-num>
+  </programme>
+  <programme start="20190512065700 +0100" stop="20190512100500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512100500 +0100" stop="20190512103000 +0100" channel="CMTV">
+    <title lang="pt">Falar Global</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S8E16</episode-num>
+  </programme>
+  <programme start="20190512103000 +0100" stop="20190512105700 +0100" channel="CMTV">
+    <title lang="pt">SOS Donos em Apuros</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E2</episode-num>
+  </programme>
+  <programme start="20190512105700 +0100" stop="20190512111000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512111000 +0100" stop="20190512113000 +0100" channel="CMTV">
+    <title lang="pt">Prato da Casa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S8E15</episode-num>
+  </programme>
+  <programme start="20190512113000 +0100" stop="20190512115700 +0100" channel="CMTV">
+    <title lang="pt">Cem Maldades</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E16</episode-num>
+  </programme>
+  <programme start="20190512115700 +0100" stop="20190512121000 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512121000 +0100" stop="20190512123000 +0100" channel="CMTV">
+    <title lang="pt">Mundo Louco Bichos</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S6E30</episode-num>
+  </programme>
+  <programme start="20190512123000 +0100" stop="20190512135700 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal Hora do Almoço</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E132</episode-num>
+  </programme>
+  <programme start="20190512135700 +0100" stop="20190512144400 +0100" channel="CMTV">
+    <title lang="pt">Especial CM</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S17E17</episode-num>
+  </programme>
+  <programme start="20190512144400 +0100" stop="20190512172500 +0100" channel="CMTV">
+    <title lang="pt">Notícias CM</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512172500 +0100" stop="20190512191500 +0100" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E65</episode-num>
+  </programme>
+  <programme start="20190512191500 +0100" stop="20190512195500 +0100" channel="CMTV">
+    <title lang="pt">CM Jornal 20H</title>
+    <category lang="pt">informacao</category>
+    <episode-num system="xmltv_ns">S19E132</episode-num>
+  </programme>
+  <programme start="20190512195500 +0100" stop="20190512214500 +0100" channel="CMTV">
+    <title lang="pt">Golos</title>
+    <category lang="pt">desporto</category>
+    <episode-num system="xmltv_ns">S19E66</episode-num>
+  </programme>
+  <programme start="20190512214500 +0100" stop="20190513003000 +0100" channel="CMTV">
+    <title lang="pt">Liga D</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512010000 +0100" stop="20190512013000 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga NOS - Sporting x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512013000 +0100" stop="20190512020000 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga Italiana - Fiorentina x AC Milan</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512020000 +0100" stop="20190512025000 +0100" channel="SPORT TV+">
+    <title lang="pt">UFC Countdown - PPV 237 - Namajunas x Andrade</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512025000 +0100" stop="20190512035500 +0100" channel="SPORT TV+">
+    <title lang="pt">ONE Championship - Warriors of Light</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512035500 +0100" stop="20190512042500 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga NOS - Sporting x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512042500 +0100" stop="20190512050000 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga Italiana - Fiorentina x AC Milan</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512060000 +0100" channel="SPORT TV+">
+    <title lang="pt">MotoGP - GP Espanha - Resumo</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512065000 +0100" channel="SPORT TV+">
+    <title lang="pt">Sports Unlimited Magazine</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512065000 +0100" stop="20190512072000 +0100" channel="SPORT TV+">
+    <title lang="pt">24H Series - Goodwood - Pikes Peak, EUA</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512072000 +0100" stop="20190512082000 +0100" channel="SPORT TV+">
+    <title lang="pt">24H Series - Goodwood - Dubai 24H</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512082000 +0100" stop="20190512085500 +0100" channel="SPORT TV+">
+    <title lang="pt">Cultura Tática - António Pedro Vasconcelos</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512085500 +0100" stop="20190512092500 +0100" channel="SPORT TV+">
+    <title lang="pt">WRC - Rali do Chile - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512092500 +0100" stop="20190512100000 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512103000 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga NOS - Sporting x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512103000 +0100" stop="20190512110000 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512112500 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga Italiana - Fiorentina x AC Milan</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512112500 +0100" stop="20190512115500 +0100" channel="SPORT TV+">
+    <title lang="pt">WRC - Rali do Chile - Resumo 2º Dia</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512115500 +0100" stop="20190512121500 +0100" channel="SPORT TV+">
+    <title lang="pt">Notícias (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512121500 +0100" stop="20190512125500 +0100" channel="SPORT TV+">
+    <title lang="pt">Bar Sport TV</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512125500 +0100" stop="20190512132500 +0100" channel="SPORT TV+">
+    <title lang="pt">Magazine Premier League - Antevisão da 38ª Jornada</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512132500 +0100" stop="20190512135500 +0100" channel="SPORT TV+">
+    <title lang="pt">Liga NOS - Sporting x Tondela</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512135500 +0100" stop="20190512173000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512194000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada - Nacional x FC Porto (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512194000 +0100" stop="20190512230000 +0100" channel="SPORT TV+">
+    <title lang="pt">Grande Jornada - Rio Ave x Benfica (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512230000 +0100" stop="20190512235500 +0100" channel="SPORT TV+">
+    <title lang="pt">Só Golos (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512235500 +0100" stop="20190513010000 +0100" channel="SPORT TV+">
+    <title lang="pt">Últimas Notícias (Direto)</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512012900 +0100" stop="20190512021200 +0100" channel="GLOBO">
+    <title lang="pt">O Cravo e a Rosa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E90</episode-num>
+  </programme>
+  <programme start="20190512021200 +0100" stop="20190512025400 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20190512025400 +0100" stop="20190512033600 +0100" channel="GLOBO">
+    <title lang="pt">O Tempo Não Para</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E144</episode-num>
+  </programme>
+  <programme start="20190512033600 +0100" stop="20190512041300 +0100" channel="GLOBO">
+    <title lang="pt">Espelho da Vida</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E136</episode-num>
+  </programme>
+  <programme start="20190512041300 +0100" stop="20190512050000 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E30</episode-num>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512055200 +0100" channel="GLOBO">
+    <title lang="pt">Sai de Baixo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E9</episode-num>
+  </programme>
+  <programme start="20190512055200 +0100" stop="20190512063500 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E37</episode-num>
+  </programme>
+  <programme start="20190512063500 +0100" stop="20190512071700 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E38</episode-num>
+  </programme>
+  <programme start="20190512071700 +0100" stop="20190512080000 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E39</episode-num>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512084200 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E40</episode-num>
+  </programme>
+  <programme start="20190512084200 +0100" stop="20190512092500 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E41</episode-num>
+  </programme>
+  <programme start="20190512092500 +0100" stop="20190512100500 +0100" channel="GLOBO">
+    <title lang="pt">Verão 90</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E42</episode-num>
+  </programme>
+  <programme start="20190512100500 +0100" stop="20190512105900 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E25</episode-num>
+  </programme>
+  <programme start="20190512105900 +0100" stop="20190512115500 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E26</episode-num>
+  </programme>
+  <programme start="20190512115500 +0100" stop="20190512124800 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E27</episode-num>
+  </programme>
+  <programme start="20190512124800 +0100" stop="20190512134500 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E28</episode-num>
+  </programme>
+  <programme start="20190512134500 +0100" stop="20190512144500 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E29</episode-num>
+  </programme>
+  <programme start="20190512144500 +0100" stop="20190512154000 +0100" channel="GLOBO">
+    <title lang="pt">O Sétimo Guardião</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E30</episode-num>
+  </programme>
+  <programme start="20190512154000 +0100" stop="20190512172500 +0100" channel="GLOBO">
+    <title lang="pt">Sessão Brasil: Romance</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190512172500 +0100" stop="20190512182200 +0100" channel="GLOBO">
+    <title lang="pt">Sai de Baixo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190512182200 +0100" stop="20190512190500 +0100" channel="GLOBO">
+    <title lang="pt">Tapas &amp; Beijos</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512190500 +0100" stop="20190512194200 +0100" channel="GLOBO">
+    <title lang="pt">Doce de Mãe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190512194200 +0100" stop="20190512201600 +0100" channel="GLOBO">
+    <title lang="pt">Doce de Mãe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190512201600 +0100" stop="20190512205000 +0100" channel="GLOBO">
+    <title lang="pt">Doce de Mãe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190512205000 +0100" stop="20190512212600 +0100" channel="GLOBO">
+    <title lang="pt">Doce de Mãe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190512212600 +0100" stop="20190512220400 +0100" channel="GLOBO">
+    <title lang="pt">Doce de Mãe</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512220400 +0100" stop="20190512230500 +0100" channel="GLOBO">
+    <title lang="pt">Sai de Baixo</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S7E10</episode-num>
+  </programme>
+  <programme start="20190512230500 +0100" stop="20190512234400 +0100" channel="GLOBO">
+    <title lang="pt">Tapas &amp; Beijos</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512234400 +0100" stop="20190513003100 +0100" channel="GLOBO">
+    <title lang="pt">O Astro</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E31</episode-num>
+  </programme>
+  <programme start="20190512000100 +0100" stop="20190512002300 +0100" channel="SIC MULHER">
+    <title lang="pt">Undressed USA</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190512002300 +0100" stop="20190512010600 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E9</episode-num>
+  </programme>
+  <programme start="20190512010600 +0100" stop="20190512015000 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E10</episode-num>
+  </programme>
+  <programme start="20190512015000 +0100" stop="20190512023600 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190512023600 +0100" stop="20190512032500 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190512032500 +0100" stop="20190512040700 +0100" channel="SIC MULHER">
+    <title lang="pt">Lie Detective</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190512040700 +0100" stop="20190512045000 +0100" channel="SIC MULHER">
+    <title lang="pt">Lie Detective</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190512045000 +0100" stop="20190512054800 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E155</episode-num>
+  </programme>
+  <programme start="20190512054800 +0100" stop="20190512064200 +0100" channel="SIC MULHER">
+    <title lang="pt">Faz Sentido</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E154</episode-num>
+  </programme>
+  <programme start="20190512064200 +0100" stop="20190512065000 +0100" channel="SIC MULHER">
+    <title lang="pt">M de Música</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E110</episode-num>
+  </programme>
+  <programme start="20190512065000 +0100" stop="20190512070000 +0100" channel="SIC MULHER">
+    <title lang="pt">Vida Extra</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E19</episode-num>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512072300 +0100" channel="SIC MULHER">
+    <title lang="pt">O Veterinário de Bondi</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E13</episode-num>
+  </programme>
+  <programme start="20190512072300 +0100" stop="20190512074600 +0100" channel="SIC MULHER">
+    <title lang="pt">O Veterinário de Bondi</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E14</episode-num>
+  </programme>
+  <programme start="20190512074600 +0100" stop="20190512083200 +0100" channel="SIC MULHER">
+    <title lang="pt">O Peso Certo Austrália</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E10</episode-num>
+  </programme>
+  <programme start="20190512083200 +0100" stop="20190512092200 +0100" channel="SIC MULHER">
+    <title lang="pt">O Peso Certo Austrália</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S11E11</episode-num>
+  </programme>
+  <programme start="20190512092200 +0100" stop="20190512094400 +0100" channel="SIC MULHER">
+    <title lang="pt">A Veterinária Lisa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20190512094400 +0100" stop="20190512100700 +0100" channel="SIC MULHER">
+    <title lang="pt">A Veterinária Lisa</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20190512100700 +0100" stop="20190512105500 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190512105500 +0100" stop="20190512114400 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190512114400 +0100" stop="20190512120600 +0100" channel="SIC MULHER">
+    <title lang="pt">Andy And Ben Eat The World</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190512120600 +0100" stop="20190512125100 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers At Home: Drew</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512125100 +0100" stop="20190512132600 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Australia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E49</episode-num>
+  </programme>
+  <programme start="20190512132600 +0100" stop="20190512141800 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E10</episode-num>
+  </programme>
+  <programme start="20190512141800 +0100" stop="20190512150600 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E11</episode-num>
+  </programme>
+  <programme start="20190512150600 +0100" stop="20190512160500 +0100" channel="SIC MULHER">
+    <title lang="pt">Joias TV - Televendas</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512160500 +0100" stop="20190512165100 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers At Home: Drew</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512165100 +0100" stop="20190512173600 +0100" channel="SIC MULHER">
+    <title lang="pt">The Voice - A Voz da América</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S14E12</episode-num>
+  </programme>
+  <programme start="20190512173600 +0100" stop="20190512182100 +0100" channel="SIC MULHER">
+    <title lang="pt">The Voice - A Voz da América</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S14E13</episode-num>
+  </programme>
+  <programme start="20190512182100 +0100" stop="20190512185100 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Australia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E53</episode-num>
+  </programme>
+  <programme start="20190512185100 +0100" stop="20190512192600 +0100" channel="SIC MULHER">
+    <title lang="pt">Married At First Sight Australia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S5E54</episode-num>
+  </programme>
+  <programme start="20190512192600 +0100" stop="20190512193500 +0100" channel="SIC MULHER">
+    <title lang="pt">Eu Quero Arrumar</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190512193500 +0100" stop="20190512202600 +0100" channel="SIC MULHER">
+    <title lang="pt">Obsessive Compulsive Cleaners</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190512202600 +0100" stop="20190512211900 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E12</episode-num>
+  </programme>
+  <programme start="20190512211900 +0100" stop="20190512220800 +0100" channel="SIC MULHER">
+    <title lang="pt">Property Brothers: Buying And Selling</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S4E13</episode-num>
+  </programme>
+  <programme start="20190512220800 +0100" stop="20190512224900 +0100" channel="SIC MULHER">
+    <title lang="pt">MasterChef Profissionais Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E23</episode-num>
+  </programme>
+  <programme start="20190512224900 +0100" stop="20190512233100 +0100" channel="SIC MULHER">
+    <title lang="pt">MasterChef Profissionais Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E24</episode-num>
+  </programme>
+  <programme start="20190512233100 +0100" stop="20190513001300 +0100" channel="SIC MULHER">
+    <title lang="pt">MasterChef Profissionais Brasil</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S3E25</episode-num>
+  </programme>
+  <programme start="20190512001500 +0100" stop="20190512011500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512011500 +0100" stop="20190512034500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512034500 +0100" stop="20190512050000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512060000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512063000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512063000 +0100" stop="20190512073000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512073000 +0100" stop="20190512100000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512110000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512120000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512120000 +0100" stop="20190512130000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512130000 +0100" stop="20190512153000 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512153000 +0100" stop="20190512164500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512164500 +0100" stop="20190512171500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512171500 +0100" stop="20190512184500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512184500 +0100" stop="20190512194500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512194500 +0100" stop="20190512204500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Gala</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512204500 +0100" stop="20190512231500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512231500 +0100" stop="20190513004500 +0100" channel="TVI REALITY">
+    <title lang="pt">Love on Top - Diário</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512003000 +0100" stop="20190512023000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Andebol - FCP x Águas Santas</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512023000 +0100" stop="20190512033000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Universo Porto - Entrevista</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512033000 +0100" stop="20190512043000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Duelo de Campeões</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512043000 +0100" stop="20190512050000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512050000 +0100" stop="20190512053000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Glitter Show</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512053000 +0100" stop="20190512060000 +0100" channel="PORTO CANAL">
+    <title lang="pt">N</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512060000 +0100" stop="20190512061500 +0100" channel="PORTO CANAL">
+    <title lang="pt">Porto Beats</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512061500 +0100" stop="20190512063000 +0100" channel="PORTO CANAL">
+    <title lang="pt">N</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512063000 +0100" stop="20190512070000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Cinema Batalha</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512070000 +0100" stop="20190512080000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Radioativo</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512080000 +0100" stop="20190512093000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Clube de Cozinheiros</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512093000 +0100" stop="20190512100000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pontos Cardeais</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512100000 +0100" stop="20190512110000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Filhos &amp; Cadilhos</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512110000 +0100" stop="20190512131500 +0100" channel="PORTO CANAL">
+    <title lang="pt">Segunda Liga - FC Porto B x Sp. Braga B</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512131500 +0100" stop="20190512141500 +0100" channel="PORTO CANAL">
+    <title lang="pt">A Falar é Que a Gente se Entende</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512141500 +0100" stop="20190512143000 +0100" channel="PORTO CANAL">
+    <title lang="pt">N</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512143000 +0100" stop="20190512145500 +0100" channel="PORTO CANAL">
+    <title lang="pt">Somos Academia</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512145500 +0100" stop="20190512150000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Basquetebol - FCP x Terceira Basket</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512150000 +0100" stop="20190512170000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Futebol Sub-15 - FCP x V. Guimarães</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512170000 +0100" stop="20190512173000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Liga NOS - Nacional x FCP - Pré-Match</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512173000 +0100" stop="20190512192000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Jogo ao Minuto - Nacional x FCP - Liga NOS</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512192000 +0100" stop="20190512203000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Liga NOS - Nacional x FCP - Pós-Match</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512203000 +0100" stop="20190512210000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Pole Position</title>
+    <category lang="pt">desporto</category>
+  </programme>
+  <programme start="20190512210000 +0100" stop="20190512220000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Jornal Diário</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512220000 +0100" stop="20190512223000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Caminhos da História</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512223000 +0100" stop="20190512233000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Júlio Magalhães</title>
+    <category lang="pt">informacao</category>
+  </programme>
+  <programme start="20190512233000 +0100" stop="20190513000000 +0100" channel="PORTO CANAL">
+    <title lang="pt">Imperdíveis</title>
+    <category lang="pt">entretenimento</category>
+  </programme>
+  <programme start="20190512002300 +0100" stop="20190512004300 +0100" channel="SIC CARAS">
+    <title lang="pt">A Minha Casa de Sonho Australia</title>
+    <category lang="pt">entretenimento</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+</tv>
